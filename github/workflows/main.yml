@@ -2,8 +2,8 @@ name: Pogo Scraper Workflow
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর রান হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-scraper:

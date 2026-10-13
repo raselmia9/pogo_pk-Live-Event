@@ -1,11 +1,25 @@
 [
     {
-        "team_one_title": "Manchester United",
-        "team_two_title": "Atlético Madrid",
-        "team_one_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-        "match_link": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
-        "match_time": "Time TBA"
+        "team_one_title": "Shanghai Rolex Masters",
+        "team_two_title": "ATP Tour",
+        "team_one_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "match_link": "https://pogo.pk/events/shanghai-rolex-masters",
+        "match_time": "10:00 AM, 07 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
+            }
+        ]
     },
     {
         "team_one_title": "Shanghai Rolex Masters",
@@ -13,7 +27,99 @@
         "team_one_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "match_link": "https://pogo.pk/events/shanghai-rolex-masters",
-        "match_time": "Time TBA"
+        "match_time": "10:00 AM, 07 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Manchester United",
+        "team_two_title": "Atlético Madrid",
+        "team_one_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "match_link": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2777"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2778"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2779"
+            },
+            {
+                "channel": "Link 4",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2780"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Manchester United",
+        "team_two_title": "Atlético Madrid",
+        "team_one_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "match_link": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2777"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2778"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2779"
+            },
+            {
+                "channel": "Link 4",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2780"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Manchester United",
+        "team_two_title": "Atlético Madrid",
+        "team_one_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+        "match_link": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2777"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2778"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2779"
+            },
+            {
+                "channel": "Link 4",
+                "watch_link": "https://playerdee.top/alpha/manchester-united-vs-atletico-madrid/2780"
+            }
+        ]
     },
     {
         "team_one_title": "Stoke City",
@@ -21,7 +127,75 @@
         "team_one_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "match_link": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Shanghai Rolex Masters",
+        "team_two_title": "ATP Tour",
+        "team_one_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
+        "match_link": "https://pogo.pk/events/shanghai-rolex-masters",
+        "match_time": "10:00 AM, 07 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2614"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2615"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/shanghai-rolex-masters/2616"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Stoke City",
+        "team_two_title": "Middlesbrough",
+        "team_one_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "match_link": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Stoke City",
+        "team_two_title": "Middlesbrough",
+        "team_one_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
+        "match_link": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2771"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/stoke-city-vs-middlesbrough/2772"
+            }
+        ]
     },
     {
         "team_one_title": "Arsenal",
@@ -29,7 +203,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "match_link": "https://pogo.pk/events/arsenal-vs-lille",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2781"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2782"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Arsenal",
+        "team_two_title": "Lille",
+        "team_one_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "match_link": "https://pogo.pk/events/arsenal-vs-lille",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2781"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2782"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Arsenal",
+        "team_two_title": "Lille",
+        "team_one_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
+        "match_link": "https://pogo.pk/events/arsenal-vs-lille",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2781"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-lille/2782"
+            }
+        ]
     },
     {
         "team_one_title": "FC Barcelona",
@@ -37,7 +257,65 @@
         "team_one_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
         "match_link": "https://pogo.pk/events/barcelona-vs-galatasaray",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2783"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2784"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2785"
+            }
+        ]
+    },
+    {
+        "team_one_title": "FC Barcelona",
+        "team_two_title": "Galatasaray",
+        "team_one_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "match_link": "https://pogo.pk/events/barcelona-vs-galatasaray",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2783"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2784"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2785"
+            }
+        ]
+    },
+    {
+        "team_one_title": "FC Barcelona",
+        "team_two_title": "Galatasaray",
+        "team_one_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
+        "match_link": "https://pogo.pk/events/barcelona-vs-galatasaray",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2783"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2784"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/barcelona-vs-galatasaray/2785"
+            }
+        ]
     },
     {
         "team_one_title": "Inter Milan",
@@ -45,7 +323,65 @@
         "team_one_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
         "match_link": "https://pogo.pk/events/inter-milan-vs-club-brugge",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2786"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2787"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2788"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Inter Milan",
+        "team_two_title": "Club Brugge",
+        "team_one_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "match_link": "https://pogo.pk/events/inter-milan-vs-club-brugge",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2786"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2787"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2788"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Inter Milan",
+        "team_two_title": "Club Brugge",
+        "team_one_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
+        "match_link": "https://pogo.pk/events/inter-milan-vs-club-brugge",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2786"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2787"
+            },
+            {
+                "channel": "Link 3",
+                "watch_link": "https://playerdee.top/alpha/inter-milan-vs-club-brugge/2788"
+            }
+        ]
     },
     {
         "team_one_title": "Bayern München",
@@ -53,15 +389,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
         "match_link": "https://pogo.pk/events/bayern-munchen-vs-viking",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2789"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2790"
+            }
+        ]
     },
     {
-        "team_one_title": "Napoli",
-        "team_two_title": "Villarreal",
-        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
-        "match_link": "https://pogo.pk/events/napoli-vs-villarreal",
-        "match_time": "Time TBA"
+        "team_one_title": "Bayern München",
+        "team_two_title": "Viking",
+        "team_one_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "match_link": "https://pogo.pk/events/bayern-munchen-vs-viking",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2789"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2790"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Bayern München",
+        "team_two_title": "Viking",
+        "team_one_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
+        "match_link": "https://pogo.pk/events/bayern-munchen-vs-viking",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2789"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/bayern-munchen-vs-viking/2790"
+            }
+        ]
     },
     {
         "team_one_title": "RB Leipzig",
@@ -69,15 +443,107 @@
         "team_one_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "match_link": "https://pogo.pk/events/rb-leipzig-vs-psv",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2793"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2794"
+            }
+        ]
     },
     {
-        "team_one_title": "Fenerbahçe",
-        "team_two_title": "Aston Villa",
-        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
-        "match_link": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
-        "match_time": "Time TBA"
+        "team_one_title": "Napoli",
+        "team_two_title": "Villarreal",
+        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "match_link": "https://pogo.pk/events/napoli-vs-villarreal",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2791"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2792"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Napoli",
+        "team_two_title": "Villarreal",
+        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "match_link": "https://pogo.pk/events/napoli-vs-villarreal",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2791"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2792"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Napoli",
+        "team_two_title": "Villarreal",
+        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+        "match_link": "https://pogo.pk/events/napoli-vs-villarreal",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2791"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/napoli-vs-villarreal/2792"
+            }
+        ]
+    },
+    {
+        "team_one_title": "RB Leipzig",
+        "team_two_title": "PSV",
+        "team_one_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "match_link": "https://pogo.pk/events/rb-leipzig-vs-psv",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2793"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2794"
+            }
+        ]
+    },
+    {
+        "team_one_title": "RB Leipzig",
+        "team_two_title": "PSV",
+        "team_one_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
+        "match_link": "https://pogo.pk/events/rb-leipzig-vs-psv",
+        "match_time": "01:00 AM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2793"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/rb-leipzig-vs-psv/2794"
+            }
+        ]
     },
     {
         "team_one_title": "Manchester City",
@@ -85,7 +551,69 @@
         "team_one_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "match_link": "https://pogo.pk/events/man-city-vs-psg",
-        "match_time": "Time TBA"
+        "match_time": "08:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/man-city-vs-psg/2763"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Manchester City",
+        "team_two_title": "PSG",
+        "team_one_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "match_link": "https://pogo.pk/events/man-city-vs-psg",
+        "match_time": "08:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/man-city-vs-psg/2763"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Fenerbahçe",
+        "team_two_title": "Aston Villa",
+        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "match_link": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
+        "match_time": "07:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Fenerbahçe",
+        "team_two_title": "Aston Villa",
+        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "match_link": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
+        "match_time": "07:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Fenerbahçe",
+        "team_two_title": "Aston Villa",
+        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "match_link": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
+        "match_time": "07:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/fenerbahce-vs-aston-villa-u19/2764"
+            }
+        ]
     },
     {
         "team_one_title": "Como",
@@ -93,7 +621,22 @@
         "team_one_logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
         "match_link": "https://pogo.pk/events/como-vs-feyenoord",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 14 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Manchester City",
+        "team_two_title": "PSG",
+        "team_one_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "match_link": "https://pogo.pk/events/man-city-vs-psg",
+        "match_time": "08:00 PM, 14 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/man-city-vs-psg/2763"
+            }
+        ]
     },
     {
         "team_one_title": "Borussia Dortmund",
@@ -101,7 +644,44 @@
         "team_one_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
         "match_link": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Como",
+        "team_two_title": "Feyenoord",
+        "team_one_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "match_link": "https://pogo.pk/events/como-vs-feyenoord",
+        "match_time": "10:45 PM, 14 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Como",
+        "team_two_title": "Feyenoord",
+        "team_one_logo": "https://cdn.img4every1.org/team/como/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
+        "match_link": "https://pogo.pk/events/como-vs-feyenoord",
+        "match_time": "10:45 PM, 14 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Borussia Dortmund",
+        "team_two_title": "FK Bodo Glimt",
+        "team_one_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "match_link": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Borussia Dortmund",
+        "team_two_title": "FK Bodo Glimt",
+        "team_one_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "match_link": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
     },
     {
         "team_one_title": "Stuttgart",
@@ -109,7 +689,26 @@
         "team_one_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
         "match_link": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Stuttgart",
+        "team_two_title": "Slovan Bratislava",
+        "team_one_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "match_link": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Stuttgart",
+        "team_two_title": "Slovan Bratislava",
+        "team_one_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
+        "match_link": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
     },
     {
         "team_one_title": "Aston Villa",
@@ -117,7 +716,26 @@
         "team_one_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "match_link": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Aston Villa",
+        "team_two_title": "Fenerbahçe",
+        "team_one_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "match_link": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Aston Villa",
+        "team_two_title": "Fenerbahçe",
+        "team_one_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "match_link": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
     },
     {
         "team_one_title": "PSG",
@@ -125,7 +743,26 @@
         "team_one_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "match_link": "https://pogo.pk/events/psg-vs-manchester-city",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "PSG",
+        "team_two_title": "Manchester City",
+        "team_one_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "match_link": "https://pogo.pk/events/psg-vs-manchester-city",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "PSG",
+        "team_two_title": "Manchester City",
+        "team_one_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+        "match_link": "https://pogo.pk/events/psg-vs-manchester-city",
+        "match_time": "01:00 AM, 15 Oct 2026",
+        "stream_links": []
     },
     {
         "team_one_title": "Oxford United",
@@ -133,7 +770,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
         "match_link": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Oxford United",
+        "team_two_title": "Mansfield Town",
+        "team_one_logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "match_link": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Oxford United",
+        "team_two_title": "Mansfield Town",
+        "team_one_logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
+        "match_link": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2807"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/oxford-united-vs-mansfield-town/2808"
+            }
+        ]
     },
     {
         "team_one_title": "Crystal Palace",
@@ -141,7 +824,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "match_link": "https://pogo.pk/events/crystal-palace-vs-lyon",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/crystal-palace-vs-lyon/2795"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Crystal Palace",
+        "team_two_title": "Olympique Lyonnais",
+        "team_one_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "match_link": "https://pogo.pk/events/crystal-palace-vs-lyon",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/crystal-palace-vs-lyon/2795"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Crystal Palace",
+        "team_two_title": "Olympique Lyonnais",
+        "team_one_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+        "match_link": "https://pogo.pk/events/crystal-palace-vs-lyon",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/crystal-palace-vs-lyon/2795"
+            }
+        ]
     },
     {
         "team_one_title": "Sunderland",
@@ -149,7 +866,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
         "match_link": "https://pogo.pk/events/sunderland-vs-torreense",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sunderland-vs-torreense/2796"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sunderland",
+        "team_two_title": "Torreense",
+        "team_one_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
+        "match_link": "https://pogo.pk/events/sunderland-vs-torreense",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sunderland-vs-torreense/2796"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sunderland",
+        "team_two_title": "Torreense",
+        "team_one_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
+        "match_link": "https://pogo.pk/events/sunderland-vs-torreense",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sunderland-vs-torreense/2796"
+            }
+        ]
     },
     {
         "team_one_title": "AC Milan",
@@ -157,7 +908,27 @@
         "team_one_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
         "match_link": "https://pogo.pk/events/milan-vs-salzburg",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/milan-vs-salzburg/2798"
+            }
+        ]
+    },
+    {
+        "team_one_title": "AC Milan",
+        "team_two_title": "Salzburg",
+        "team_one_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+        "match_link": "https://pogo.pk/events/milan-vs-salzburg",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/milan-vs-salzburg/2798"
+            }
+        ]
     },
     {
         "team_one_title": "Real Sociedad",
@@ -165,7 +936,55 @@
         "team_one_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
         "match_link": "https://pogo.pk/events/real-sociedad-vs-union-sg",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/real-sociedad-vs-union-sg/2799"
+            }
+        ]
+    },
+    {
+        "team_one_title": "AC Milan",
+        "team_two_title": "Salzburg",
+        "team_one_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
+        "match_link": "https://pogo.pk/events/milan-vs-salzburg",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/milan-vs-salzburg/2798"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Real Sociedad",
+        "team_two_title": "Union Saint-Gilloise",
+        "team_one_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
+        "match_link": "https://pogo.pk/events/real-sociedad-vs-union-sg",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/real-sociedad-vs-union-sg/2799"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Real Sociedad",
+        "team_two_title": "Union Saint-Gilloise",
+        "team_one_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
+        "match_link": "https://pogo.pk/events/real-sociedad-vs-union-sg",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/real-sociedad-vs-union-sg/2799"
+            }
+        ]
     },
     {
         "team_one_title": "Bayer Leverkusen",
@@ -173,7 +992,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "match_link": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
-        "match_time": "Time TBA"
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Bayer Leverkusen",
+        "team_two_title": "Lech Poznan",
+        "team_one_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "match_link": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Bayer Leverkusen",
+        "team_two_title": "Lech Poznan",
+        "team_one_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
+        "match_link": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
+        "match_time": "10:45 PM, 15 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/bayer-leverkusen-vs-lech-poznan/2800"
+            }
+        ]
     },
     {
         "team_one_title": "Benfica",
@@ -181,7 +1034,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
         "match_link": "https://pogo.pk/events/benfica-vs-celtic",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/benfica-vs-celtic/2804"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Benfica",
+        "team_two_title": "Celtic",
+        "team_one_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "match_link": "https://pogo.pk/events/benfica-vs-celtic",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/benfica-vs-celtic/2804"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Benfica",
+        "team_two_title": "Celtic",
+        "team_one_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
+        "match_link": "https://pogo.pk/events/benfica-vs-celtic",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/benfica-vs-celtic/2804"
+            }
+        ]
     },
     {
         "team_one_title": "Al-Nassr",
@@ -189,7 +1076,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
         "match_link": "https://pogo.pk/events/al-nassr-vs-al-ahli",
-        "match_time": "Time TBA"
+        "match_time": "12:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Al-Nassr",
+        "team_two_title": "Al Ahli",
+        "team_one_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "match_link": "https://pogo.pk/events/al-nassr-vs-al-ahli",
+        "match_time": "12:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Al-Nassr",
+        "team_two_title": "Al Ahli",
+        "team_one_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
+        "match_link": "https://pogo.pk/events/al-nassr-vs-al-ahli",
+        "match_time": "12:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2809"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/al-nassr-vs-al-ahli/2810"
+            }
+        ]
     },
     {
         "team_one_title": "Le Mans",
@@ -197,7 +1130,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
         "match_link": "https://pogo.pk/events/le-mans-vs-toulouse",
-        "match_time": "Time TBA"
+        "match_time": "12:45 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Le Mans",
+        "team_two_title": "Toulouse",
+        "team_one_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "match_link": "https://pogo.pk/events/le-mans-vs-toulouse",
+        "match_time": "12:45 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Le Mans",
+        "team_two_title": "Toulouse",
+        "team_one_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
+        "match_link": "https://pogo.pk/events/le-mans-vs-toulouse",
+        "match_time": "12:45 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2813"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/le-mans-vs-toulouse/2814"
+            }
+        ]
     },
     {
         "team_one_title": "Brighton & Hove Albion",
@@ -205,7 +1184,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
         "match_link": "https://pogo.pk/events/brighton-vs-kauno-zalgiris",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/brighton-vs-kauno-zalgiris/2805"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Brighton & Hove Albion",
+        "team_two_title": "Kauno Zalgiris",
+        "team_one_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
+        "match_link": "https://pogo.pk/events/brighton-vs-kauno-zalgiris",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/brighton-vs-kauno-zalgiris/2805"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Brighton & Hove Albion",
+        "team_two_title": "Kauno Zalgiris",
+        "team_one_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
+        "match_link": "https://pogo.pk/events/brighton-vs-kauno-zalgiris",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/brighton-vs-kauno-zalgiris/2805"
+            }
+        ]
     },
     {
         "team_one_title": "Hearts",
@@ -213,7 +1226,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/nordsjaelland/logo.webp",
         "match_link": "https://pogo.pk/events/heart-vs-nordsjaelland",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Hearts",
+        "team_two_title": "Nordsjælland",
+        "team_one_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/nordsjaelland/logo.webp",
+        "match_link": "https://pogo.pk/events/heart-vs-nordsjaelland",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Hearts",
+        "team_two_title": "Nordsjælland",
+        "team_one_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/nordsjaelland/logo.webp",
+        "match_link": "https://pogo.pk/events/heart-vs-nordsjaelland",
+        "match_time": "01:00 AM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/heart-vs-nordsjaelland/2806"
+            }
+        ]
     },
     {
         "team_one_title": "Sydney FC",
@@ -221,7 +1268,41 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
         "match_link": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
-        "match_time": "Time TBA"
+        "match_time": "03:00 PM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sydney FC",
+        "team_two_title": "Western Sydney Wanderers",
+        "team_one_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
+        "match_link": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
+        "match_time": "03:00 PM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sydney FC",
+        "team_two_title": "Western Sydney Wanderers",
+        "team_one_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
+        "match_link": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
+        "match_time": "03:00 PM, 16 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sydney-fc-vs-western-sydney-wanderers/2817"
+            }
+        ]
     },
     {
         "team_one_title": "Eintracht Frankfurt",
@@ -229,7 +1310,26 @@
         "team_one_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "match_link": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
-        "match_time": "Time TBA"
+        "match_time": "12:30 AM, 17 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Eintracht Frankfurt",
+        "team_two_title": "Köln",
+        "team_one_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "match_link": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
+        "match_time": "12:30 AM, 17 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Eintracht Frankfurt",
+        "team_two_title": "Köln",
+        "team_one_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+        "match_link": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
+        "match_time": "12:30 AM, 17 Oct 2026",
+        "stream_links": []
     },
     {
         "team_one_title": "Sassuolo",
@@ -237,7 +1337,53 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "match_link": "https://pogo.pk/events/sassuolo-vs-frosinone",
-        "match_time": "Time TBA"
+        "match_time": "12:45 AM, 17 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sassuolo",
+        "team_two_title": "Frosinone Calcio",
+        "team_one_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "match_link": "https://pogo.pk/events/sassuolo-vs-frosinone",
+        "match_time": "12:45 AM, 17 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Sassuolo",
+        "team_two_title": "Frosinone Calcio",
+        "team_one_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
+        "match_link": "https://pogo.pk/events/sassuolo-vs-frosinone",
+        "match_time": "12:45 AM, 17 Oct 2026",
+        "stream_links": [
+            {
+                "channel": "Link 1",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2815"
+            },
+            {
+                "channel": "Link 2",
+                "watch_link": "https://playerdee.top/alpha/sassuolo-vs-frosinone/2816"
+            }
+        ]
     },
     {
         "team_one_title": "Deportivo La Coruña",
@@ -245,6 +1391,25 @@
         "team_one_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "match_link": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
-        "match_time": "Time TBA"
+        "match_time": "01:00 AM, 17 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Deportivo La Coruña",
+        "team_two_title": "Levante",
+        "team_one_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "match_link": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+        "match_time": "01:00 AM, 17 Oct 2026",
+        "stream_links": []
+    },
+    {
+        "team_one_title": "Deportivo La Coruña",
+        "team_two_title": "Levante",
+        "team_one_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
+        "match_link": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
+        "match_time": "01:00 AM, 17 Oct 2026",
+        "stream_links": []
     }
 ]

@@ -1,4 +1,4 @@
-name: Pogo Scraper Workflow
+name: Pogo Playwright Scraper
 
 on:
   schedule:
@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install Playwright Browsers
+        run: playwright install chromium
+
       - name: Run Python Scraper
         run: python main.py
 
@@ -33,5 +36,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add matches.json status.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update matches and status [skip ci]" && git push)
-          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update m3u8 streams and status [skip ci]" && git push)

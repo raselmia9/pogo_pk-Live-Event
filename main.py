@@ -1,6 +1,7 @@
 import json
 import cloudscraper
 from bs4 import BeautifulSoup
+from datetime import datetime, timezone, timedelta
 
 URL = 'https://pogo.pk/'
 
@@ -65,23 +66,34 @@ def scrape_pogo_matches():
                 href = link_tag['href']
                 match_link = f"https://pogo.pk{href}" if href.startswith('/') else href
 
-            # ১. প্রথম কার্ড বা হোমপেজের লিংকযুক্ত এন্ট্রিগুলো ফিল্টার করে বাদ দেওয়া
-            if match_link == "https://pogo.pk/" or match_link == "https://pogo.pk" or match_link == "N/A":
+            # হোমপেজ বা লিগ ক্যাটাগরি পেজ (যেমন /leagues/, /nfl-streams ইত্যাদি) ফিল্টার করে বাদ দেওয়া
+            if match_link == "https://pogo.pk/" or match_link == "https://pogo.pk" or match_link == "N/A" or "leagues" in match_link:
                 continue
 
             if team_one_title != "N/A" and team_two_title != "N/A" and team_one_logo != "N/A":
                 
-                # ২. এখন সংগ্রহ করা ম্যাচ লিংকের মাধ্যমে সরাসরি দ্বিতীয় পেজে (Detail Page) প্রবেশ করা
-                print(f"Visiting second page for match: {team_one_title} vs {team_two_title} -> {match_link}")
+                # দ্বিতীয় পেজে প্রবেশ করে ম্যাচের শুরুর সময় সংগ্রহ করা
+                print(f"Visiting detail page: {match_link}")
                 sub_response = scraper.get(match_link)
                 
-                sub_title = "N/A"
+                match_time_bst = "Time TBA"
                 if sub_response.status_code == 200:
                     sub_soup = BeautifulSoup(sub_response.text, 'html.parser')
-                    # দ্বিতীয় পেজ থেকে এক্সট্রা ইনফো বা টাইটেল সংগ্রহ করার লজিক (প্রয়োজন অনুযায়ী কাস্টমাইজ করা যাবে)
-                    page_title_tag = sub_soup.find('h1') or sub_soup.find('title')
-                    if page_title_tag:
-                        sub_title = page_title_tag.get_text(strip=True)
+                    
+                    # দ্বিতীয় পেজ থেকে টাইম বা ডেট ট্যাগ খুঁজে বের করা (ওয়েবসাইটের স্ট্রাকচার অনুযায়ী ক্লাস বা ট্যাগ অ্যাডজাস্ট করা যেতে পারে)
+                    time_tag = sub_soup.find('time') or sub_soup.find(class_=lambda x: x and ('time' in x.lower() or 'date' in x.lower() or 'schedule' in x.lower()))
+                    
+                    if time_tag:
+                        raw_time_str = time_tag.get('datetime') or time_tag.get_text(strip=True)
+                        try:
+                            # যদি ISO ফরম্যাট বা টাইম স্ট্রিং থাকে তবে সেটিকে বাংলাদেশ টাইমে (UTC+6) কনভার্ট করা
+                            # এখানে উদাহরণের জন্য UTC টাইম ধরে BST (+6) করা হলো
+                            dt_utc = datetime.fromisoformat(raw_time_str.replace('Z', '+00:00'))
+                            bst_timezone = timezone(timedelta(hours=6))
+                            dt_bst = dt_utc.astimezone(bst_timezone)
+                            match_time_bst = dt_bst.strftime('%I:%M %p, %d %b')
+                        except:
+                            match_time_bst = raw_time_str # কনভার্ট করা সম্ভব না হলে অরিজিনাল টেক্সট রাখবে
 
                 match_info = {
                     "team_one_title": team_one_title,
@@ -89,14 +101,15 @@ def scrape_pogo_matches():
                     "team_one_logo": team_one_logo,
                     "team_two_logo": team_two_logo,
                     "match_link": match_link,
-                    "second_page_title": sub_title # দ্বিতীয় পেজ থেকে প্রাপ্ত তথ্য
+                    "match_time": match_time_bst
                 }
                 
                 if match_info not in matches_data:
                     matches_data.append(match_info)
                     
+                    # স্ট্যাটাস টেক্সটের জন্য রঙিন ডট, টিম নাম এবং বাংলাদেশ সময় ফরম্যাট
                     current_dot = dots[dot_index % len(dots)]
-                    status_line = f"{current_dot} Match: {team_one_title} vs {team_two_title}"
+                    status_line = f"{current_dot} {team_one_title} vs {team_two_title} | Time: {match_time_bst}"
                     status_lines.append(status_line)
                     dot_index += 1
 
@@ -107,11 +120,11 @@ def scrape_pogo_matches():
     with open('matches.json', 'w', encoding='utf-8') as f:
         json.dump(matches_data, f, ensure_ascii=False, indent=4)
 
-    # Status টেক্সট ফাইলে স্ট্যাটাস সেভ করা
+    # Status টেক্সট ফাইলে স্ট্যাটাস সেভ করা (কোনো ডেট/টাইম স্ট্যাম্প হেডার ছাড়াই)
     with open('status.txt', 'w', encoding='utf-8') as f:
         f.write("\n".join(status_lines))
     
-    print(f"Successfully scraped and processed {len(matches_data)} matches.")
+    print(f"Successfully scraped {len(matches_data)} matches.")
 
 if __name__ == "__main__":
     scrape_pogo_matches()

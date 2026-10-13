@@ -1,19 +1,11 @@
 [
     {
-        "team_one_title": "NFL",
-        "team_two_title": "Premier League",
-        "team_one_logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/league/epl-streams/logo.webp",
-        "match_link": "https://pogo.pk/leagues/nfl-streams",
-        "second_page_title": "NFL Streams - Pogo.pk"
-    },
-    {
         "team_one_title": "Manchester United",
         "team_two_title": "Atlético Madrid",
         "team_one_logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
         "match_link": "https://pogo.pk/events/manchester-united-vs-atletico-madrid",
-        "second_page_title": "Manchester United vs Atlético Madrid Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Shanghai Rolex Masters",
@@ -21,7 +13,7 @@
         "team_one_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/league/atp-tour-live-stream-free/logo.webp",
         "match_link": "https://pogo.pk/events/shanghai-rolex-masters",
-        "second_page_title": "Shanghai Rolex Masters Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Stoke City",
@@ -29,7 +21,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/stoke-city/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/middlesbrough/logo.webp",
         "match_link": "https://pogo.pk/events/stoke-city-vs-middlesbrough",
-        "second_page_title": "Stoke City vs Middlesbrough Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Arsenal",
@@ -37,7 +29,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/lille/logo.webp",
         "match_link": "https://pogo.pk/events/arsenal-vs-lille",
-        "second_page_title": "Arsenal vs Lille Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "FC Barcelona",
@@ -45,7 +37,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/galatasaray/logo.webp",
         "match_link": "https://pogo.pk/events/barcelona-vs-galatasaray",
-        "second_page_title": "Barcelona vs Galatasaray Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Inter Milan",
@@ -53,7 +45,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/club-brugge/logo.webp",
         "match_link": "https://pogo.pk/events/inter-milan-vs-club-brugge",
-        "second_page_title": "Inter Milan vs Club Brugge Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Bayern München",
@@ -61,7 +53,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/viking/logo.webp",
         "match_link": "https://pogo.pk/events/bayern-munchen-vs-viking",
-        "second_page_title": "Bayern München vs Viking Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Napoli",
@@ -69,7 +61,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
         "match_link": "https://pogo.pk/events/napoli-vs-villarreal",
-        "second_page_title": "Napoli vs Villarreal Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "RB Leipzig",
@@ -77,7 +69,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/rb-leipzig/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/psv/logo.webp",
         "match_link": "https://pogo.pk/events/rb-leipzig-vs-psv",
-        "second_page_title": "RB Leipzig vs PSV Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Fenerbahçe",
@@ -85,7 +77,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "match_link": "https://pogo.pk/events/fenerbahce-vs-aston-villa-u19",
-        "second_page_title": "Fenerbahce vs Aston Villa U19 Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Manchester City",
@@ -93,7 +85,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "match_link": "https://pogo.pk/events/man-city-vs-psg",
-        "second_page_title": "Man City vs PSG Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Como",
@@ -101,7 +93,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/como/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/feyenoord/logo.webp",
         "match_link": "https://pogo.pk/events/como-vs-feyenoord",
-        "second_page_title": "Como vs Feyenoord Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Borussia Dortmund",
@@ -109,7 +101,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/borussia-dortmund/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
         "match_link": "https://pogo.pk/events/borussia-dortmund-vs-bodo-glimt",
-        "second_page_title": "Borussia Dortmund vs Bodø / Glimt Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Stuttgart",
@@ -117,7 +109,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/slovan-bratislava/logo.webp",
         "match_link": "https://pogo.pk/events/stuttgart-vs-slovan-bratislava",
-        "second_page_title": "Stuttgart vs Slovan Bratislava Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Aston Villa",
@@ -125,7 +117,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/aston-villa/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
         "match_link": "https://pogo.pk/events/aston-villa-vs-fenerbahce",
-        "second_page_title": "Aston Villa vs Fenerbahçe Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "PSG",
@@ -133,7 +125,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/psg/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
         "match_link": "https://pogo.pk/events/psg-vs-manchester-city",
-        "second_page_title": "PSG vs Manchester City Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Oxford United",
@@ -141,7 +133,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/mansfield-town/logo.webp",
         "match_link": "https://pogo.pk/events/oxford-united-vs-mansfield-town",
-        "second_page_title": "Oxford United vs Mansfield Town Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Crystal Palace",
@@ -149,7 +141,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
         "match_link": "https://pogo.pk/events/crystal-palace-vs-lyon",
-        "second_page_title": "Crystal Palace vs Lyon Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Sunderland",
@@ -157,7 +149,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/torreense/logo.webp",
         "match_link": "https://pogo.pk/events/sunderland-vs-torreense",
-        "second_page_title": "Sunderland vs Torreense Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "AC Milan",
@@ -165,7 +157,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/salzburg/logo.webp",
         "match_link": "https://pogo.pk/events/milan-vs-salzburg",
-        "second_page_title": "Milan vs Salzburg Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Real Sociedad",
@@ -173,7 +165,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/union-saint-gilloise/logo.webp",
         "match_link": "https://pogo.pk/events/real-sociedad-vs-union-sg",
-        "second_page_title": "Real Sociedad vs Union SG Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Bayer Leverkusen",
@@ -181,7 +173,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/lech-poznan/logo.webp",
         "match_link": "https://pogo.pk/events/bayer-leverkusen-vs-lech-poznan",
-        "second_page_title": "Bayer Leverkusen vs Lech Poznan Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Benfica",
@@ -189,7 +181,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/benfica/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/celtic/logo.webp",
         "match_link": "https://pogo.pk/events/benfica-vs-celtic",
-        "second_page_title": "Benfica vs Celtic Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Al-Nassr",
@@ -197,7 +189,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/al-nassr/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/al-ahli/logo.webp",
         "match_link": "https://pogo.pk/events/al-nassr-vs-al-ahli",
-        "second_page_title": "Al-Nassr vs Al-Ahli Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Le Mans",
@@ -205,7 +197,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/le-mans/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/toulouse/logo.webp",
         "match_link": "https://pogo.pk/events/le-mans-vs-toulouse",
-        "second_page_title": "Le Mans vs Toulouse Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Brighton & Hove Albion",
@@ -213,7 +205,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/kauno-zalgiris/logo.webp",
         "match_link": "https://pogo.pk/events/brighton-vs-kauno-zalgiris",
-        "second_page_title": "Brighton vs Kauno Zalgiris Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Hearts",
@@ -221,7 +213,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/hearts/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/nordsjaelland/logo.webp",
         "match_link": "https://pogo.pk/events/heart-vs-nordsjaelland",
-        "second_page_title": "Heart vs Nordsjælland Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Sydney FC",
@@ -229,7 +221,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/western-sydney-wanderers/logo.webp",
         "match_link": "https://pogo.pk/events/sydney-fc-vs-western-sydney-wanderers",
-        "second_page_title": "Sydney FC vs Western Sydney Wanderers Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Eintracht Frankfurt",
@@ -237,7 +229,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/eintracht-frankfurt/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/koln/logo.webp",
         "match_link": "https://pogo.pk/events/eintracht-frankfurt-vs-koln",
-        "second_page_title": "Eintracht Frankfurt vs Köln Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Sassuolo",
@@ -245,7 +237,7 @@
         "team_one_logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/frosinone-calcio/logo.webp",
         "match_link": "https://pogo.pk/events/sassuolo-vs-frosinone",
-        "second_page_title": "Sassuolo vs Frosinone Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     },
     {
         "team_one_title": "Deportivo La Coruña",
@@ -253,6 +245,6 @@
         "team_one_logo": "https://cdn.img4every1.org/team/deportivo-la-coruna/logo.webp",
         "team_two_logo": "https://cdn.img4every1.org/team/levante/logo.webp",
         "match_link": "https://pogo.pk/events/deportivo-la-coruna-vs-levante",
-        "second_page_title": "Deportivo La Coruña vs Levante Live Streaming Online - Pogo.pk"
+        "match_time": "Time TBA"
     }
 ]

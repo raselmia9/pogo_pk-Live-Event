@@ -1,31 +1,23 @@
-🔴 Stoke CityMiddlesbrough vs Stoke City | Time: 01:00 AM, 14 Oct 2026
-🔵 Shanghai Rolex MastersATP Tour vs Shanghai Rolex Masters | Time: 10:00 AM, 07 Oct 2026
-🟡 Manchester UnitedAtlético Madrid vs Manchester United | Time: 01:00 AM, 14 Oct 2026
-🔴 ArsenalLille vs Arsenal | Time: 01:00 AM, 14 Oct 2026
-🔵 FC BarcelonaGalatasaray vs FC Barcelona | Time: 01:00 AM, 14 Oct 2026
-🟡 Inter MilanClub Brugge vs Inter Milan | Time: 01:00 AM, 14 Oct 2026
-🔴 Bayern MünchenViking vs Bayern München | Time: 01:00 AM, 14 Oct 2026
-🔵 NapoliVillarreal vs Napoli | Time: 01:00 AM, 14 Oct 2026
-🟡 RB LeipzigPSV vs RB Leipzig | Time: 01:00 AM, 14 Oct 2026
-🔴 FenerbahçeAston Villa vs Fenerbahçe | Time: 07:00 PM, 14 Oct 2026
-🔵 Manchester CityPSG vs Manchester City | Time: 08:00 PM, 14 Oct 2026
-🟡 ComoFeyenoord vs Como | Time: 10:45 PM, 14 Oct 2026
-🔴 Borussia DortmundFK Bodo Glimt vs Borussia Dortmund | Time: 01:00 AM, 15 Oct 2026
-🔵 StuttgartSlovan Bratislava vs Stuttgart | Time: 01:00 AM, 15 Oct 2026
-🟡 Aston VillaFenerbahçe vs Aston Villa | Time: 01:00 AM, 15 Oct 2026
-🔴 PSGManchester City vs PSG | Time: 01:00 AM, 15 Oct 2026
-🔵 Crystal PalaceOlympique Lyonnais vs Crystal Palace | Time: 10:45 PM, 15 Oct 2026
+🔴 Manchester CityPSG vs Manchester City | Time: 08:00 PM, 14 Oct 2026
+🔵 FenerbahçeAston Villa vs Fenerbahçe | Time: 07:00 PM, 14 Oct 2026
+🟡 Shanghai Rolex MastersATP Tour vs Shanghai Rolex Masters | Time: 10:00 AM, 07 Oct 2026
+🔴 ComoFeyenoord vs Como | Time: 10:45 PM, 14 Oct 2026
+🔵 Borussia DortmundFK Bodo Glimt vs Borussia Dortmund | Time: 01:00 AM, 15 Oct 2026
+🟡 StuttgartSlovan Bratislava vs Stuttgart | Time: 01:00 AM, 15 Oct 2026
+🔴 Aston VillaFenerbahçe vs Aston Villa | Time: 01:00 AM, 15 Oct 2026
+🔵 PSGManchester City vs PSG | Time: 01:00 AM, 15 Oct 2026
 🟡 Oxford UnitedMansfield Town vs Oxford United | Time: 01:00 AM, 16 Oct 2026
-🔴 SunderlandTorreense vs Sunderland | Time: 10:45 PM, 15 Oct 2026
-🔵 AC MilanSalzburg vs AC Milan | Time: 10:45 PM, 15 Oct 2026
-🟡 Real SociedadUnion Saint-Gilloise vs Real Sociedad | Time: 10:45 PM, 15 Oct 2026
-🔴 Bayer LeverkusenLech Poznan vs Bayer Leverkusen | Time: 10:45 PM, 15 Oct 2026
-🔵 BenficaCeltic vs Benfica | Time: 01:00 AM, 16 Oct 2026
-🟡 Al-NassrAl Ahli vs Al-Nassr | Time: 12:00 AM, 16 Oct 2026
-🔴 Brighton & Hove AlbionKauno Zalgiris vs Brighton & Hove Albion | Time: 01:00 AM, 16 Oct 2026
+🔴 Crystal PalaceOlympique Lyonnais vs Crystal Palace | Time: 10:45 PM, 15 Oct 2026
+🔵 SunderlandTorreense vs Sunderland | Time: 10:45 PM, 15 Oct 2026
+🟡 AC MilanSalzburg vs AC Milan | Time: 10:45 PM, 15 Oct 2026
+🔴 Real SociedadUnion Saint-Gilloise vs Real Sociedad | Time: 10:45 PM, 15 Oct 2026
+🔵 Bayer LeverkusenLech Poznan vs Bayer Leverkusen | Time: 10:45 PM, 15 Oct 2026
+🟡 BenficaCeltic vs Benfica | Time: 01:00 AM, 16 Oct 2026
+🔴 Al-NassrAl Ahli vs Al-Nassr | Time: 12:00 AM, 16 Oct 2026
 🔵 Le MansToulouse vs Le Mans | Time: 12:45 AM, 16 Oct 2026
-🟡 HeartsNordsjælland vs Hearts | Time: 01:00 AM, 16 Oct 2026
-🔴 Sydney FCWestern Sydney Wanderers vs Sydney FC | Time: 03:00 PM, 16 Oct 2026
-🔵 Eintracht FrankfurtKöln vs Eintracht Frankfurt | Time: 12:30 AM, 17 Oct 2026
-🟡 SassuoloFrosinone Calcio vs Sassuolo | Time: 12:45 AM, 17 Oct 2026
+🟡 Brighton & Hove AlbionKauno Zalgiris vs Brighton & Hove Albion | Time: 01:00 AM, 16 Oct 2026
+🔴 HeartsNordsjælland vs Hearts | Time: 01:00 AM, 16 Oct 2026
+🔵 Sydney FCWestern Sydney Wanderers vs Sydney FC | Time: 03:00 PM, 16 Oct 2026
+🟡 Eintracht FrankfurtKöln vs Eintracht Frankfurt | Time: 12:30 AM, 17 Oct 2026
 🔴 Deportivo La CoruñaLevante vs Deportivo La Coruña | Time: 01:00 AM, 17 Oct 2026
+🔵 SassuoloFrosinone Calcio vs Sassuolo | Time: 12:45 AM, 17 Oct 2026

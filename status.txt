@@ -2,24 +2,29 @@
 🔵 AucklandMelbourne City vs Auckland | Time: 10:00 AM, 17 Oct 2026
 🟡 Shanghai Rolex MastersATP Tour vs Shanghai Rolex Masters | Time: 10:00 AM, 07 Oct 2026
 🔴 Newcastle JetsCentral Coast Mariners vs Newcastle Jets | Time: 02:40 PM, 17 Oct 2026
+🔵 AustraliaNew Zealand vs Australia | Time: 11:00 AM, 17 Oct 2026
+🟡 EnglandTonga vs England | Time: 03:05 PM, 17 Oct 2026
+🔴 WatfordCharlton Athletic vs Watford | Time: 05:30 PM, 17 Oct 2026
 🔵 ChelseaEverton vs Chelsea | Time: 05:30 PM, 17 Oct 2026
-🟡 WatfordCharlton Athletic vs Watford | Time: 05:30 PM, 17 Oct 2026
-🔴 Manchester CityIpswich Town vs Manchester City | Time: 08:00 PM, 17 Oct 2026
-🔵 Aston VillaNewcastle United vs Aston Villa | Time: 10:30 PM, 17 Oct 2026
-🟡 Manchester UnitedLeeds United vs Manchester United | Time: 07:00 PM, 18 Oct 2026
-🔴 Crystal PalaceBrighton & Hove Albion vs Crystal Palace | Time: 07:00 PM, 18 Oct 2026
-🔵 EspanyolAtlético Madrid vs Espanyol | Time: 06:00 PM, 17 Oct 2026
-🟡 Elche CFVillarreal vs Elche CF | Time: 08:15 PM, 17 Oct 2026
-🔴 FC BarcelonaReal Betis vs FC Barcelona | Time: 10:30 PM, 17 Oct 2026
-🔵 Athletic ClubValencia vs Athletic Club | Time: 01:00 AM, 18 Oct 2026
-🟡 Racing SantanderOsasuna vs Racing Santander | Time: 06:00 PM, 18 Oct 2026
-🔴 Deportivo AlavésCelta de Vigo vs Deportivo Alavés | Time: 08:15 PM, 18 Oct 2026
-🔵 Napoli vs Venezia | Time: 07:00 PM, 17 Oct 2026
-🟡 Inter MilanBologna vs Inter Milan | Time: 10:00 PM, 17 Oct 2026
-🔴 AS RomaGenoa vs AS Roma | Time: 12:45 AM, 18 Oct 2026
-🔵 LecceUdinese vs Lecce | Time: 04:30 PM, 18 Oct 2026
-🟡 ComoFiorentina vs Como | Time: 07:00 PM, 18 Oct 2026
-🔴 AC MilanAtalanta vs AC Milan | Time: 10:00 PM, 18 Oct 2026
-🔵 PSGStrasbourg vs PSG | Time: 09:15 PM, 17 Oct 2026
-🟡 LilleBrest vs Lille | Time: 12:45 AM, 18 Oct 2026
-🔴 Bayern MünchenRB Leipzig vs Bayern München | Time: 10:30 PM, 17 Oct 2026
+🟡 Manchester CityIpswich Town vs Manchester City | Time: 08:00 PM, 17 Oct 2026
+🔴 Aston VillaNewcastle United vs Aston Villa | Time: 10:30 PM, 17 Oct 2026
+🔵 Manchester UnitedLeeds United vs Manchester United | Time: 07:00 PM, 18 Oct 2026
+🟡 Crystal PalaceBrighton & Hove Albion vs Crystal Palace | Time: 07:00 PM, 18 Oct 2026
+🔴 Glasgow WarriorsSale Sharks vs Glasgow Warriors | Time: 06:00 PM, 17 Oct 2026
+🔵 BullsStade Français Paris vs Bulls | Time: 06:00 PM, 17 Oct 2026
+🟡 EspanyolAtlético Madrid vs Espanyol | Time: 06:00 PM, 17 Oct 2026
+🔴 Elche CFVillarreal vs Elche CF | Time: 08:15 PM, 17 Oct 2026
+🔵 FC BarcelonaReal Betis vs FC Barcelona | Time: 10:30 PM, 17 Oct 2026
+🟡 Athletic ClubValencia vs Athletic Club | Time: 01:00 AM, 18 Oct 2026
+🔴 Racing SantanderOsasuna vs Racing Santander | Time: 06:00 PM, 18 Oct 2026
+🔵 Deportivo AlavésCelta de Vigo vs Deportivo Alavés | Time: 08:15 PM, 18 Oct 2026
+🟡 Napoli vs Venezia | Time: 07:00 PM, 17 Oct 2026
+🔴 Inter MilanBologna vs Inter Milan | Time: 10:00 PM, 17 Oct 2026
+🔵 AS RomaGenoa vs AS Roma | Time: 12:45 AM, 18 Oct 2026
+🟡 LecceUdinese vs Lecce | Time: 04:30 PM, 18 Oct 2026
+🔴 ComoFiorentina vs Como | Time: 07:00 PM, 18 Oct 2026
+🔵 AC MilanAtalanta vs AC Milan | Time: 10:00 PM, 18 Oct 2026
+🟡 PSGStrasbourg vs PSG | Time: 09:15 PM, 17 Oct 2026
+🔴 LilleBrest vs Lille | Time: 12:45 AM, 18 Oct 2026
+🔵 Bayern MünchenRB Leipzig vs Bayern München | Time: 10:30 PM, 17 Oct 2026
+🟡 UFC Fight Night: BuckleyMalott vs UFC Fight Night: Buckley | Time: 04:00 AM, 18 Oct 2026

@@ -1,9 +1,6 @@
-🔴 AucklandMelbourne City vs Auckland | Time: 10:00 AM, 17 Oct 2026
+🔴 Eintracht FrankfurtKöln vs Eintracht Frankfurt | Time: 12:30 AM, 17 Oct 2026
 🔵 Sydney FCWestern Sydney Wanderers vs Sydney FC | Time: 03:00 PM, 16 Oct 2026
 🟡 Shanghai Rolex MastersATP Tour vs Shanghai Rolex Masters | Time: 10:00 AM, 07 Oct 2026
-🔴 Perth GloryMacarthur vs Perth Glory | Time: 12:00 PM, 17 Oct 2026
-🔵 Newcastle JetsCentral Coast Mariners vs Newcastle Jets | Time: 02:40 PM, 17 Oct 2026
-🟡 Eintracht FrankfurtKöln vs Eintracht Frankfurt | Time: 12:30 AM, 17 Oct 2026
 🔴 Bayern MünchenRB Leipzig vs Bayern München | Time: 10:30 PM, 17 Oct 2026
 🔵 Napoli vs Venezia | Time: 07:00 PM, 17 Oct 2026
 🟡 SassuoloFrosinone Calcio vs Sassuolo | Time: 12:45 AM, 17 Oct 2026
@@ -23,6 +20,9 @@
 🔵 Gloucester RugbyBordeaux Begles vs Gloucester Rugby | Time: 01:00 AM, 17 Oct 2026
 🟡 EdinburghRC Toulonnais vs Edinburgh | Time: 01:00 AM, 17 Oct 2026
 🔴 WatfordCharlton Athletic vs Watford | Time: 05:30 PM, 17 Oct 2026
+🔵 AucklandMelbourne City vs Auckland | Time: 10:00 AM, 17 Oct 2026
+🟡 Perth GloryMacarthur vs Perth Glory | Time: 12:00 PM, 17 Oct 2026
+🔴 Newcastle JetsCentral Coast Mariners vs Newcastle Jets | Time: 02:40 PM, 17 Oct 2026
 🔵 ChelseaEverton vs Chelsea | Time: 05:30 PM, 17 Oct 2026
 🟡 Manchester CityIpswich Town vs Manchester City | Time: 08:00 PM, 17 Oct 2026
 🔴 Aston VillaNewcastle United vs Aston Villa | Time: 10:30 PM, 17 Oct 2026

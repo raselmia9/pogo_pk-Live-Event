@@ -8,8 +8,8 @@
         "match_time": "10:45 PM, 20 Oct 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -20,8 +20,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -40,12 +40,6 @@
             {
                 "channel": "Rugby",
                 "watch_link": "https://pogo.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://pogo.pk/leagues/nfl-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -54,16 +48,22 @@
                 "watch_link": "https://pogo.pk/leagues/epl-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://pogo.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
             }
         ]
     },
     {
-        "team_one_title": "FenerbahçeSlavia Praha",
-        "team_two_title": "Fenerbahçe",
-        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
-        "match_link": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
-        "match_time": "10:45 PM, 20 Oct 2026",
+        "team_one_title": "Washington CommandersSan Francisco 49ers",
+        "team_two_title": "Washington Commanders",
+        "team_one_logo": "https://cdn.img4every1.org/team/washington-commanders/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/san-francisco-49ers/logo.webp",
+        "match_link": "https://pogo.pk/events/commanders-vs-49ers",
+        "match_time": "06:15 AM, 20 Oct 2026",
         "streams": [
             {
                 "channel": "NBA",
@@ -72,14 +72,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -98,6 +98,24 @@
             {
                 "channel": "Rugby",
                 "watch_link": "https://pogo.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/commanders-vs-49ers/2974",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/commanders-vs-49ers/2975",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/commanders-vs-49ers/2976",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -124,8 +142,8 @@
         "match_time": "03:00 PM, 18 Oct 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -136,8 +154,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -186,12 +204,12 @@
         ]
     },
     {
-        "team_one_title": "NapoliFK Bodo Glimt",
-        "team_two_title": "Napoli",
-        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
-        "match_link": "https://pogo.pk/events/napoli-vs-bodo-glimt",
-        "match_time": "01:00 AM, 21 Oct 2026",
+        "team_one_title": "FenerbahçeSlavia Praha",
+        "team_two_title": "Fenerbahçe",
+        "team_one_logo": "https://cdn.img4every1.org/team/fenerbahce/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/slavia-praha/logo.webp",
+        "match_link": "https://pogo.pk/events/fenerbahce-vs-slavia-praha",
+        "match_time": "10:45 PM, 20 Oct 2026",
         "streams": [
             {
                 "channel": "F1",
@@ -200,14 +218,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -252,12 +270,6 @@
         "match_time": "01:00 AM, 21 Oct 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
                 "channel": "NBA",
                 "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
@@ -270,10 +282,22 @@
                 "referer": "N/A"
             },
             {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "MotoGp",
                 "watch_link": "https://pogo.pk/motogp-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "m3u8_link": "https://t.sharethis.com/d/a.gif?cid=c010&cls=C&stid=CgsD3mrWvDoAAAAJCba7Aw%253D%253D&tt=t.dhj&dhjLcy=1792457786891&lbl=pxcel&flbl=pxcel&ll=d&ver=1.2138.23439&ell=d&cck=__stid&dmn=pogo.pk&pn=%2Fufc-streams-free&qs=na&rdn=pogo.pk&rpn=%2Fufc-streams-free&rqs=na&cc=US&cont=NA&rc=WY&evid=2Z0zWFaAhnAGIS_m3ugJ&urls=!1!325!b-13j,!0!264!b-13l,!1!321!b-14s,!1!234!b-150&rnd=1792457790005&cid=c010&version=1.2138.23439&cc=US&cont=NA&cls=C&repeat=0&htmLcy=31",
+                "referer": "https://t.sharethis.com/a/t_.htm?ver=1.2138.23439&cid=c010&cls=C"
             },
             {
                 "channel": "Rugby",
@@ -282,8 +306,60 @@
                 "referer": "N/A"
             },
             {
+                "channel": "NFL",
+                "watch_link": "https://pogo.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://pogo.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "NapoliFK Bodo Glimt",
+        "team_two_title": "Napoli",
+        "team_one_logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/fk-bodo-glimt/logo.webp",
+        "match_link": "https://pogo.pk/events/napoli-vs-bodo-glimt",
+        "match_time": "01:00 AM, 21 Oct 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://pogo.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "UFC",
                 "watch_link": "https://pogo.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -310,14 +386,14 @@
         "match_time": "01:00 AM, 21 Oct 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -368,12 +444,6 @@
         "match_time": "01:00 AM, 21 Oct 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
                 "channel": "NBA",
                 "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
@@ -382,6 +452,12 @@
             {
                 "channel": "Soccer",
                 "watch_link": "https://pogo.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -432,14 +508,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -484,6 +560,12 @@
         "match_time": "12:00 AM, 22 Oct 2026",
         "streams": [
             {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "Soccer",
                 "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
@@ -492,12 +574,6 @@
             {
                 "channel": "NBA",
                 "watch_link": "https://pogo.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },

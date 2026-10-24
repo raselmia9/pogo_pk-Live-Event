@@ -1,25 +1,18 @@
 🔴 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 22 Oct 2026
 🔵 f1 United States Grand PrixFormula 1 vs f1 United States Grand Prix | Time: 11:00 PM, 22 Oct 2026
 🟡 Snooker Northern Ireland OpenSnooker vs Snooker Northern Ireland Open | Time: 03:00 PM, 18 Oct 2026
-🔴 BolognaCagliari vs Bologna | Time: 07:00 PM, 24 Oct 2026
-🔵 MotoGP Australian Grand PrixMotoGP vs MotoGP Australian Grand Prix | Time: 04:00 AM, 23 Oct 2026
-🟡 ComoSassuolo vs Como | Time: 07:00 PM, 24 Oct 2026
-🔴 Glasgow WarriorsBenetton vs Glasgow Warriors | Time: 08:00 PM, 24 Oct 2026
-🔵 ScarletsStormers vs Scarlets | Time: 08:00 PM, 24 Oct 2026
-🟡 ArsenalEverton vs Arsenal | Time: 08:00 PM, 24 Oct 2026
-🔴 Alexander VolkanovskiMovsar Evloev vs Alexander Volkanovski | Time: 10:00 PM, 24 Oct 2026
-🔵 Racing SantanderEspanyol vs Racing Santander | Time: 08:15 PM, 24 Oct 2026
-🟡 AS RomaNapoli vs AS Roma | Time: 10:00 PM, 24 Oct 2026
-🔴 BrentfordHull City vs Brentford | Time: 08:00 PM, 25 Oct 2026
-🔵 ParmaLazio vs Parma | Time: 12:45 AM, 25 Oct 2026
-🟡 Crystal PalaceNewcastle United vs Crystal Palace | Time: 08:00 PM, 25 Oct 2026
-🔴 Manchester UnitedAFC Bournemouth vs Manchester United | Time: 08:00 PM, 25 Oct 2026
-🔵 SunderlandLeeds United vs Sunderland | Time: 10:30 PM, 25 Oct 2026
+🔴 MotoGP Australian Grand PrixMotoGP vs MotoGP Australian Grand Prix | Time: 04:00 AM, 23 Oct 2026
+🔵 Alexander VolkanovskiMovsar Evloev vs Alexander Volkanovski | Time: 10:00 PM, 24 Oct 2026
 🟡 Eintracht FrankfurtBorussia Dortmund vs Eintracht Frankfurt | Time: 10:30 PM, 24 Oct 2026
+🔴 ValenciaVillarreal vs Valencia | Time: 10:30 PM, 24 Oct 2026
+🔵 ParmaLazio vs Parma | Time: 12:45 AM, 25 Oct 2026
+🟡 LensParis FC vs Lens | Time: 12:45 AM, 25 Oct 2026
 🔴 Atlético MadridDeportivo La Coruña vs Atlético Madrid | Time: 01:00 AM, 25 Oct 2026
-🔵 ValenciaVillarreal vs Valencia | Time: 10:30 PM, 24 Oct 2026
-🟡 GetafeAthletic Club vs Getafe | Time: 07:00 PM, 25 Oct 2026
-🔴 Real BetisCelta de Vigo vs Real Betis | Time: 09:15 PM, 25 Oct 2026
-🔵 Real SociedadLevante vs Real Sociedad | Time: 11:30 PM, 25 Oct 2026
-🟡 FC BarcelonaReal Madrid vs FC Barcelona | Time: 02:00 AM, 26 Oct 2026
-🔴 LensParis FC vs Lens | Time: 12:45 AM, 25 Oct 2026
+🔵 GetafeAthletic Club vs Getafe | Time: 07:00 PM, 25 Oct 2026
+🟡 Real BetisCelta de Vigo vs Real Betis | Time: 09:15 PM, 25 Oct 2026
+🔴 Real SociedadLevante vs Real Sociedad | Time: 11:30 PM, 25 Oct 2026
+🔵 FC BarcelonaReal Madrid vs FC Barcelona | Time: 02:00 AM, 26 Oct 2026
+🟡 BrentfordHull City vs Brentford | Time: 08:00 PM, 25 Oct 2026
+🔴 Crystal PalaceNewcastle United vs Crystal Palace | Time: 08:00 PM, 25 Oct 2026
+🔵 Manchester UnitedAFC Bournemouth vs Manchester United | Time: 08:00 PM, 25 Oct 2026
+🟡 SunderlandLeeds United vs Sunderland | Time: 10:30 PM, 25 Oct 2026

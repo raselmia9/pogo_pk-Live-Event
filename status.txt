@@ -1,24 +1,15 @@
-🔴 Bayern MünchenMagdeburg vs Bayern München | Time: 01:45 AM, 29 Oct 2026
-🔵 Bayer LeverkusenNürnberg vs Bayer Leverkusen | Time: 01:45 AM, 29 Oct 2026
-🟡 Inter MilanVenezia vs Inter Milan | Time: 11:30 PM, 28 Oct 2026
-🔴 AC MilanBologna vs AC Milan | Time: 11:30 PM, 28 Oct 2026
-🔵 NapoliMonza vs Napoli | Time: 01:45 AM, 29 Oct 2026
-🟡 JuventusGenoa vs Juventus | Time: 01:45 AM, 29 Oct 2026
-🔴 Frosinone CalcioLecce vs Frosinone Calcio | Time: 11:30 PM, 29 Oct 2026
-🔵 AtalantaFiorentina vs Atalanta | Time: 01:45 AM, 30 Oct 2026
-🟡 ChelseaAS Roma vs Chelsea | Time: 11:45 PM, 28 Oct 2026
-🔴 Real MadridBayern München vs Real Madrid | Time: 11:45 PM, 28 Oct 2026
-🔵 Inter MilanOlympique Lyonnais vs Inter Milan | Time: 02:00 AM, 29 Oct 2026
-🟡 ArsenalBenfica vs Arsenal | Time: 02:00 AM, 29 Oct 2026
 🔴 Manchester CityBrighton & Hove Albion vs Manchester City | Time: 01:30 AM, 29 Oct 2026
+🔵 NapoliMonza vs Napoli | Time: 01:45 AM, 29 Oct 2026
+🟡 Bayern MünchenMagdeburg vs Bayern München | Time: 01:45 AM, 29 Oct 2026
+🔴 Bayer LeverkusenNürnberg vs Bayer Leverkusen | Time: 01:45 AM, 29 Oct 2026
 🔵 AFC BournemouthAston Villa vs AFC Bournemouth | Time: 01:45 AM, 29 Oct 2026
 🟡 SunderlandBrentford vs Sunderland | Time: 01:45 AM, 29 Oct 2026
-🔴 Newcastle UnitedEverton vs Newcastle United | Time: 01:45 AM, 30 Oct 2026
-🔵 Chelsea vs Manchester United | Time: 06:30 PM, 31 Oct 2026
-🟡 Brighton & Hove AlbionManchester City vs Brighton & Hove Albion | Time: 09:00 PM, 31 Oct 2026
-🔴 Hull CityIpswich Town vs Hull City | Time: 09:00 PM, 31 Oct 2026
-🔵 SunderlandCoventry City vs Sunderland | Time: 09:00 PM, 31 Oct 2026
-🟡 Leeds UnitedAFC Bournemouth vs Leeds United | Time: 09:00 PM, 31 Oct 2026
+🔴 JuventusGenoa vs Juventus | Time: 01:45 AM, 29 Oct 2026
+🔵 Inter MilanOlympique Lyonnais vs Inter Milan | Time: 02:00 AM, 29 Oct 2026
+🟡 ArsenalBenfica vs Arsenal | Time: 02:00 AM, 29 Oct 2026
+🔴 Frosinone CalcioLecce vs Frosinone Calcio | Time: 11:30 PM, 29 Oct 2026
+🔵 AtalantaFiorentina vs Atalanta | Time: 01:45 AM, 30 Oct 2026
+🟡 Newcastle UnitedEverton vs Newcastle United | Time: 01:45 AM, 30 Oct 2026
 🔴 AucklandBrisbane Roar vs Auckland | Time: 03:00 PM, 30 Oct 2026
 🔵 PSGLe Havre vs PSG | Time: 12:00 AM, 31 Oct 2026
 🟡 LensLille vs Lens | Time: 02:05 AM, 31 Oct 2026
@@ -28,3 +19,8 @@
 🔴 Celta de VigoRayo Vallecano vs Celta de Vigo | Time: 09:15 PM, 31 Oct 2026
 🔵 Real BetisMálaga vs Real Betis | Time: 11:30 PM, 31 Oct 2026
 🟡 FC BarcelonaDeportivo Alavés vs FC Barcelona | Time: 02:00 AM, 01 Nov 2026
+🔴 Chelsea vs Manchester United | Time: 06:30 PM, 31 Oct 2026
+🔵 Brighton & Hove AlbionManchester City vs Brighton & Hove Albion | Time: 09:00 PM, 31 Oct 2026
+🟡 Hull CityIpswich Town vs Hull City | Time: 09:00 PM, 31 Oct 2026
+🔴 SunderlandCoventry City vs Sunderland | Time: 09:00 PM, 31 Oct 2026
+🔵 Leeds UnitedAFC Bournemouth vs Leeds United | Time: 09:00 PM, 31 Oct 2026

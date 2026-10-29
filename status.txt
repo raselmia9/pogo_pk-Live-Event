@@ -1,19 +1,25 @@
-🔴 Manchester CityBrighton & Hove Albion vs Manchester City | Time: 01:30 AM, 29 Oct 2026
-🔵 NapoliMonza vs Napoli | Time: 01:45 AM, 29 Oct 2026
-🟡 Bayern MünchenMagdeburg vs Bayern München | Time: 01:45 AM, 29 Oct 2026
-🔴 Bayer LeverkusenNürnberg vs Bayer Leverkusen | Time: 01:45 AM, 29 Oct 2026
-🔵 AFC BournemouthAston Villa vs AFC Bournemouth | Time: 01:45 AM, 29 Oct 2026
-🟡 SunderlandBrentford vs Sunderland | Time: 01:45 AM, 29 Oct 2026
-🔴 JuventusGenoa vs Juventus | Time: 01:45 AM, 29 Oct 2026
-🔵 Inter MilanOlympique Lyonnais vs Inter Milan | Time: 02:00 AM, 29 Oct 2026
-🟡 ArsenalBenfica vs Arsenal | Time: 02:00 AM, 29 Oct 2026
-🔴 Frosinone CalcioLecce vs Frosinone Calcio | Time: 11:30 PM, 29 Oct 2026
-🔵 AtalantaFiorentina vs Atalanta | Time: 01:45 AM, 30 Oct 2026
-🟡 Newcastle UnitedEverton vs Newcastle United | Time: 01:45 AM, 30 Oct 2026
+🔴 AtalantaFiorentina vs Atalanta | Time: 01:45 AM, 30 Oct 2026
+🔵 Frosinone CalcioLecce vs Frosinone Calcio | Time: 11:30 PM, 29 Oct 2026
+🟡 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 29 Oct 2026
+🔴 Newcastle UnitedEverton vs Newcastle United | Time: 01:45 AM, 30 Oct 2026
+🔵 MotoGP Malaysian Grand PrixMotoGP vs MotoGP Malaysian Grand Prix | Time: 07:00 AM, 30 Oct 2026
+🟡 Carolina PanthersGreen Bay Packers vs Carolina Panthers | Time: 06:15 AM, 30 Oct 2026
 🔴 AucklandBrisbane Roar vs Auckland | Time: 03:00 PM, 30 Oct 2026
-🔵 PSGLe Havre vs PSG | Time: 12:00 AM, 31 Oct 2026
-🟡 LensLille vs Lens | Time: 02:05 AM, 31 Oct 2026
-🔴 ElversbergMainz 05 vs Elversberg | Time: 01:30 AM, 31 Oct 2026
+🔵 EnglandPapua New Guinea vs England | Time: 03:05 PM, 30 Oct 2026
+🟡 PSGLe Havre vs PSG | Time: 12:00 AM, 31 Oct 2026
+🔴 LensLille vs Lens | Time: 02:05 AM, 31 Oct 2026
+🔵 ElversbergMainz 05 vs Elversberg | Time: 01:30 AM, 31 Oct 2026
+🟡 F1 Mexican Grand PrixFormula 1 vs F1 Mexican Grand Prix | Time: 12:00 AM, 31 Oct 2026
+🔴 Bristol BearsLeicester Tigers vs Bristol Bears | Time: 01:45 AM, 31 Oct 2026
+🔵 Newcastle FalconsSaracens vs Newcastle Falcons | Time: 09:00 PM, 31 Oct 2026
+🟡 Exeter ChiefsHarlequins vs Exeter Chiefs | Time: 09:00 PM, 31 Oct 2026
+🔴 Sale SharksBath Rugby vs Sale Sharks | Time: 09:05 PM, 31 Oct 2026
+🔵 LeinsterConnacht vs Leinster | Time: 01:45 AM, 31 Oct 2026
+🟡 Glasgow WarriorsLions vs Glasgow Warriors | Time: 01:45 AM, 31 Oct 2026
+🔴 UlsterStormers vs Ulster | Time: 06:45 PM, 31 Oct 2026
+🔵 BullsScarlets vs Bulls | Time: 09:00 PM, 31 Oct 2026
+🟡 EdinburghBenetton vs Edinburgh | Time: 09:00 PM, 31 Oct 2026
+🔴 The SharksMunster vs The Sharks | Time: 11:30 PM, 31 Oct 2026
 🔵 VillarrealEspanyol vs Villarreal | Time: 02:00 AM, 31 Oct 2026
 🟡 Atlético MadridLevante vs Atlético Madrid | Time: 07:00 PM, 31 Oct 2026
 🔴 Celta de VigoRayo Vallecano vs Celta de Vigo | Time: 09:15 PM, 31 Oct 2026

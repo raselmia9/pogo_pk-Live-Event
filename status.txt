@@ -1,10 +1,21 @@
-🔴 ComoVenezia vs Como | Time: 05:30 PM, 01 Nov 2026
-🔵 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 29 Oct 2026
-🟡 F1 Mexican Grand PrixFormula 1 vs F1 Mexican Grand Prix | Time: 12:00 AM, 31 Oct 2026
+🔴 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 29 Oct 2026
+🔵 F1 Mexican Grand PrixFormula 1 vs F1 Mexican Grand Prix | Time: 12:00 AM, 31 Oct 2026
+🟡 Real MadridRacing Santander vs Real Madrid | Time: 09:15 PM, 01 Nov 2026
 🔴 LecceGenoa vs Lecce | Time: 11:00 PM, 01 Nov 2026
-🔵 NapoliJuventus vs Napoli | Time: 01:45 AM, 02 Nov 2026
-🟡 GetafeSevilla vs Getafe | Time: 07:00 PM, 01 Nov 2026
-🔴 Real MadridRacing Santander vs Real Madrid | Time: 09:15 PM, 01 Nov 2026
 🔵 ValenciaElche CF vs Valencia | Time: 11:30 PM, 01 Nov 2026
 🟡 Real SociedadAthletic Club vs Real Sociedad | Time: 02:00 AM, 02 Nov 2026
-🔴 Sheffield WednesdayBlackpool vs Sheffield Wednesday | Time: 08:00 PM, 01 Nov 2026
+🔴 OsasunaDeportivo La Coruña vs Osasuna | Time: 02:00 AM, 03 Nov 2026
+🔵 NapoliJuventus vs Napoli | Time: 01:45 AM, 02 Nov 2026
+🟡 SassuoloFiorentina vs Sassuolo | Time: 11:30 PM, 02 Nov 2026
+🔴 AtalantaParma vs Atalanta | Time: 01:45 AM, 03 Nov 2026
+🔵 LorientBrest vs Lorient | Time: 01:45 AM, 03 Nov 2026
+🟡 BenficaAlverca vs Benfica | Time: 02:15 AM, 03 Nov 2026
+🔴 Newcastle UnitedEverton vs Newcastle United | Time: 02:00 AM, 03 Nov 2026
+🔵 Gil VicenteVitória Guimarães vs Gil Vicente | Time: 02:15 AM, 03 Nov 2026
+🟡 Sporting CPShakhtar Donetsk vs Sporting CP | Time: 11:45 PM, 03 Nov 2026
+🔴 StuttgartGalatasaray vs Stuttgart | Time: 11:45 PM, 03 Nov 2026
+🔵 FC BarcelonaAston Villa vs FC Barcelona | Time: 02:00 AM, 04 Nov 2026
+🟡 AS Roma vs Manchester United | Time: 02:00 AM, 04 Nov 2026
+🔴 PSGVillarreal vs PSG | Time: 02:00 AM, 04 Nov 2026
+🔵 Bayern MünchenAtlético Madrid vs Bayern München | Time: 02:00 AM, 04 Nov 2026
+🟡 RennesOlympiakos Piraeus vs Rennes | Time: 09:30 PM, 04 Nov 2026

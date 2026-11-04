@@ -1,18 +1,12 @@
 [
     {
-        "team_one_title": "RennesOlympiakos Piraeus",
-        "team_two_title": "Rennes",
-        "team_one_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
-        "match_link": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
-        "match_time": "09:30 PM, 04 Nov 2026",
+        "team_one_title": "Real MadridAEK Athens",
+        "team_two_title": "Real Madrid",
+        "team_one_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
+        "match_link": "https://pogo.pk/events/real-madrid-vs-athens",
+        "match_time": "11:45 PM, 04 Nov 2026",
         "streams": [
-            {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
             {
                 "channel": "NBA",
                 "watch_link": "https://pogo.pk/nba-streams",
@@ -22,6 +16,12 @@
             {
                 "channel": "Soccer",
                 "watch_link": "https://pogo.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -66,14 +66,14 @@
         "match_time": "02:00 AM, 05 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -116,16 +116,16 @@
         ]
     },
     {
-        "team_one_title": "Real MadridAEK Athens",
-        "team_two_title": "Real Madrid",
-        "team_one_logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/aek-athens/logo.webp",
-        "match_link": "https://pogo.pk/events/real-madrid-vs-athens",
-        "match_time": "11:45 PM, 04 Nov 2026",
+        "team_one_title": "RennesOlympiakos Piraeus",
+        "team_two_title": "Rennes",
+        "team_one_logo": "https://cdn.img4every1.org/team/rennes/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/olympiakos-piraeus/logo.webp",
+        "match_link": "https://pogo.pk/events/rennes-vs-olympiakos-piraeus",
+        "match_time": "09:30 PM, 04 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -136,8 +136,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -182,8 +182,8 @@
         "match_time": "02:00 AM, 05 Nov 2026",
         "streams": [
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -194,8 +194,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -206,14 +206,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "UFC",
-                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -240,8 +240,8 @@
         "match_time": "02:00 AM, 05 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -252,8 +252,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },

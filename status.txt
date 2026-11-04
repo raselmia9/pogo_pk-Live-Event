@@ -1,13 +1,6 @@
-🔴 PSGVillarreal vs PSG | Time: 02:00 AM, 04 Nov 2026
-🔵 AS Roma vs Manchester United | Time: 02:00 AM, 04 Nov 2026
-🟡 FC BarcelonaAston Villa vs FC Barcelona | Time: 02:00 AM, 04 Nov 2026
-🔴 LASKSlovan Bratislava vs LASK | Time: 02:00 AM, 04 Nov 2026
-🔵 LilleFK Bodo Glimt vs Lille | Time: 02:00 AM, 04 Nov 2026
-🟡 Bayern MünchenAtlético Madrid vs Bayern München | Time: 02:00 AM, 04 Nov 2026
 🔴 RennesOlympiakos Piraeus vs Rennes | Time: 09:30 PM, 04 Nov 2026
-🔵 Real MadridAEK Athens vs Real Madrid | Time: 11:45 PM, 04 Nov 2026
-🟡 Inter MilanFeyenoord vs Inter Milan | Time: 02:00 AM, 04 Nov 2026
-🔴 Manchester CityRB Leipzig vs Manchester City | Time: 02:00 AM, 05 Nov 2026
-🔵 NapoliPorto vs Napoli | Time: 02:00 AM, 05 Nov 2026
-🟡 Borussia DortmundReal Betis vs Borussia Dortmund | Time: 02:00 AM, 05 Nov 2026
-🔴 ComoLens vs Como | Time: 02:00 AM, 05 Nov 2026
+🔵 Manchester CityRB Leipzig vs Manchester City | Time: 02:00 AM, 05 Nov 2026
+🟡 Real MadridAEK Athens vs Real Madrid | Time: 11:45 PM, 04 Nov 2026
+🔴 NapoliPorto vs Napoli | Time: 02:00 AM, 05 Nov 2026
+🔵 Borussia DortmundReal Betis vs Borussia Dortmund | Time: 02:00 AM, 05 Nov 2026
+🟡 ComoLens vs Como | Time: 02:00 AM, 05 Nov 2026

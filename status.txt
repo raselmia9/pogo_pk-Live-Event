@@ -1,6 +1,6 @@
-🔴 F1 Brazilian Grand PrixFormula 1 vs F1 Brazilian Grand Prix | Time: 09:00 PM, 06 Nov 2026
-🔵 MotoGP Qatar GP vs MotoGP | Time: 04:00 PM, 06 Nov 2026
-🟡 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 05 Nov 2026
+🔴 MotoGP Qatar GP vs MotoGP | Time: 04:00 PM, 06 Nov 2026
+🔵 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 05 Nov 2026
+🟡 F1 Brazilian Grand PrixFormula 1 vs F1 Brazilian Grand Prix | Time: 09:00 PM, 06 Nov 2026
 🔴 Bayern MünchenMainz 05 vs Bayern München | Time: 08:30 PM, 07 Nov 2026
 🔵 StuttgartWerder Bremen vs Stuttgart | Time: 11:30 PM, 07 Nov 2026
 🟡 ToulouseStrasbourg vs Toulouse | Time: 01:45 AM, 07 Nov 2026
@@ -8,22 +8,22 @@
 🔵 PSGTroyes vs PSG | Time: 01:45 AM, 08 Nov 2026
 🟡 Oxford CityLeicester City vs Oxford City | Time: 01:45 AM, 07 Nov 2026
 🔴 EnglandArgentina vs England | Time: 01:45 AM, 07 Nov 2026
-🔵 IrelandArgentina vs Ireland | Time: 02:10 AM, 07 Nov 2026
-🟡 Peterborough UnitedReading vs Peterborough United | Time: 02:00 AM, 08 Nov 2026
+🔵 Peterborough UnitedReading vs Peterborough United | Time: 02:00 AM, 08 Nov 2026
+🟡 IrelandArgentina vs Ireland | Time: 02:10 AM, 07 Nov 2026
 🔴 ItalySouth Africa vs Italy | Time: 05:40 PM, 07 Nov 2026
 🔵 ScotlandNew Zealand vs Scotland | Time: 08:10 PM, 07 Nov 2026
 🟡 JapanWales vs Japan | Time: 10:40 PM, 07 Nov 2026
 🔴 FranceFiji vs France | Time: 02:10 AM, 08 Nov 2026
-🔵 VeneziaUdinese vs Venezia | Time: 01:45 AM, 07 Nov 2026
-🟡 ParmaBologna vs Parma | Time: 11:00 PM, 07 Nov 2026
+🔵 ParmaBologna vs Parma | Time: 11:00 PM, 07 Nov 2026
+🟡 VeneziaUdinese vs Venezia | Time: 01:45 AM, 07 Nov 2026
 🔴 AS RomaSassuolo vs AS Roma | Time: 01:45 AM, 08 Nov 2026
-🔵 SevillaDeportivo Alavés vs Sevilla | Time: 02:00 AM, 07 Nov 2026
-🟡 MálagaRacing Santander vs Málaga | Time: 07:00 PM, 07 Nov 2026
+🔵 MálagaRacing Santander vs Málaga | Time: 07:00 PM, 07 Nov 2026
+🟡 SevillaDeportivo Alavés vs Sevilla | Time: 02:00 AM, 07 Nov 2026
 🔴 EspanyolDeportivo La Coruña vs Espanyol | Time: 09:15 PM, 07 Nov 2026
 🔵 OsasunaAthletic Club vs Osasuna | Time: 11:30 PM, 07 Nov 2026
 🟡 Real MadridValencia vs Real Madrid | Time: 02:00 AM, 08 Nov 2026
-🔴 Coventry CityEverton vs Coventry City | Time: 02:00 AM, 07 Nov 2026
-🔵 ArsenalHull City vs Arsenal | Time: 09:00 PM, 07 Nov 2026
+🔴 ArsenalHull City vs Arsenal | Time: 09:00 PM, 07 Nov 2026
+🔵 Coventry CityEverton vs Coventry City | Time: 02:00 AM, 07 Nov 2026
 🟡 Bolton WanderersDerby County vs Bolton Wanderers | Time: 02:00 AM, 07 Nov 2026
 🔴 Bristol CityNorwich City vs Bristol City | Time: 06:30 PM, 07 Nov 2026
 🔵 MiddlesbroughWatford vs Middlesbrough | Time: 09:00 PM, 07 Nov 2026

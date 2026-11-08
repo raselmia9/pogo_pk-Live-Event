@@ -1,12 +1,6 @@
-🔴 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 05 Nov 2026
-🔵 PSGTroyes vs PSG | Time: 02:05 AM, 08 Nov 2026
-🟡 Real MadridValencia vs Real Madrid | Time: 02:00 AM, 08 Nov 2026
 🔴 MotoGP Qatar GP vs MotoGP | Time: 04:00 PM, 06 Nov 2026
-🔵 F1 Brazilian Grand PrixFormula 1 vs F1 Brazilian Grand Prix | Time: 09:00 PM, 06 Nov 2026
-🟡 AS RomaSassuolo vs AS Roma | Time: 01:45 AM, 08 Nov 2026
-🔴 Peterborough UnitedReading vs Peterborough United | Time: 02:00 AM, 08 Nov 2026
-🔵 FranceFiji vs France | Time: 02:10 AM, 08 Nov 2026
-🟡 Sporting CP vs Moreirense | Time: 02:30 AM, 08 Nov 2026
+🔵 PGA / LPGA GolfPGA Tour vs PGA / LPGA Golf | Time: 08:00 AM, 05 Nov 2026
+🟡 F1 Brazilian Grand PrixFormula 1 vs F1 Brazilian Grand Prix | Time: 09:00 PM, 06 Nov 2026
 🔴 LazioNapoli vs Lazio | Time: 05:30 PM, 08 Nov 2026
 🔵 MonzaAtalanta vs Monza | Time: 08:00 PM, 08 Nov 2026
 🟡 AC MilanGenoa vs AC Milan | Time: 08:00 PM, 08 Nov 2026

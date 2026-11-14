@@ -1,15 +1,15 @@
 [
     {
-        "team_one_title": "ItalyArgentina",
-        "team_two_title": "Italy",
-        "team_one_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-        "match_link": "https://pogo.pk/events/italy-vs-argentina",
-        "match_time": "05:40 PM, 14 Nov 2026",
+        "team_one_title": "EnglandJapan",
+        "team_two_title": "England",
+        "team_one_logo": "https://cdn.img4every1.org/team/england/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
+        "match_link": "https://pogo.pk/events/england-vs-japan",
+        "match_time": "10:40 PM, 14 Nov 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -20,8 +20,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -45,7 +45,7 @@
             },
             {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/italy-vs-argentina/3600",
+                "watch_link": "https://playerdee.top/alpha/england-vs-japan/3602",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -64,16 +64,16 @@
         ]
     },
     {
-        "team_one_title": "KosovoIsrael",
-        "team_two_title": "Kosovo",
-        "team_one_logo": "https://cdn.img4every1.org/team/kosovo/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/israel/logo.webp",
-        "match_link": "https://pogo.pk/events/kosovo-vs-israel",
-        "match_time": "08:00 PM, 14 Nov 2026",
+        "team_one_title": "HungaryGeorgia",
+        "team_two_title": "Hungary",
+        "team_one_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
+        "match_link": "https://pogo.pk/events/hungary-vs-georgia",
+        "match_time": "11:00 PM, 14 Nov 2026",
         "streams": [
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -84,8 +84,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -109,13 +109,19 @@
             },
             {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/kosovo-vs-israel/3624",
+                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3626",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/kosovo-vs-israel/3625",
+                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3627",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3628",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -142,14 +148,14 @@
         "match_time": "11:00 PM, 14 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -166,14 +172,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "UFC",
-                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -224,14 +230,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -250,6 +256,18 @@
             {
                 "channel": "Rugby",
                 "watch_link": "https://pogo.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/ireland-vs-austria/3637",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/ireland-vs-austria/3638",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -276,14 +294,14 @@
         "match_time": "01:45 AM, 15 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -294,14 +312,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "UFC",
-                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "channel": "MotoGp",
+                "watch_link": "https://pogo.pk/motogp-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "MotoGp",
-                "watch_link": "https://pogo.pk/motogp-streams",
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -318,78 +336,8 @@
                 "referer": "N/A"
             },
             {
-                "channel": "NFL",
-                "watch_link": "https://pogo.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://pogo.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
-        "team_one_title": "HungaryGeorgia",
-        "team_two_title": "Hungary",
-        "team_one_logo": "https://cdn.img4every1.org/team/hungary/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/georgia/logo.webp",
-        "match_link": "https://pogo.pk/events/hungary-vs-georgia",
-        "match_time": "11:00 PM, 14 Nov 2026",
-        "streams": [
-            {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://pogo.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://pogo.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://pogo.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3626",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3628",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/hungary-vs-georgia/3627",
+                "watch_link": "https://playerdee.top/alpha/ukraine-vs-northern-ireland/3639",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -422,6 +370,70 @@
                 "referer": "N/A"
             },
             {
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://pogo.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://pogo.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/poland-vs-romania/3640",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/poland-vs-romania/3641",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://pogo.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://pogo.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "MontenegroCyprus",
+        "team_two_title": "Montenegro",
+        "team_one_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+        "match_link": "https://pogo.pk/events/montenegro-vs-cyprus",
+        "match_time": "08:00 PM, 15 Nov 2026",
+        "streams": [
+            {
                 "channel": "F1",
                 "watch_link": "https://pogo.pk/f1-streams",
                 "m3u8_link": "N/A",
@@ -430,6 +442,12 @@
             {
                 "channel": "Soccer",
                 "watch_link": "https://pogo.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -466,22 +484,16 @@
         ]
     },
     {
-        "team_one_title": "WalesNew Zealand",
-        "team_two_title": "Wales",
-        "team_one_logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-        "match_link": "https://pogo.pk/events/wales-vs-new-zealand",
-        "match_time": "08:10 PM, 14 Nov 2026",
+        "team_one_title": "Bosnia and HerzegovinaSweden",
+        "team_two_title": "Bosnia and Herzegovina",
+        "team_one_logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
+        "match_link": "https://pogo.pk/events/bosnia-vs-sweden",
+        "match_time": "01:45 AM, 15 Nov 2026",
         "streams": [
             {
                 "channel": "Soccer",
                 "watch_link": "https://pogo.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -492,14 +504,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "MotoGp",
-                "watch_link": "https://pogo.pk/motogp-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
+                "channel": "MotoGp",
+                "watch_link": "https://pogo.pk/motogp-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -510,8 +522,20 @@
                 "referer": "N/A"
             },
             {
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/wales-vs-new-zealand/3601",
+                "watch_link": "https://playerdee.top/alpha/bosnia-vs-sweden/3642",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/bosnia-vs-sweden/3643",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -530,12 +554,12 @@
         ]
     },
     {
-        "team_one_title": "EnglandJapan",
-        "team_two_title": "England",
-        "team_one_logo": "https://cdn.img4every1.org/team/england/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/japan/logo.webp",
-        "match_link": "https://pogo.pk/events/england-vs-japan",
-        "match_time": "10:40 PM, 14 Nov 2026",
+        "team_one_title": "DenmarkPortugal",
+        "team_two_title": "Denmark",
+        "team_one_logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+        "match_link": "https://pogo.pk/events/denmark-vs-portugal",
+        "match_time": "01:45 AM, 15 Nov 2026",
         "streams": [
             {
                 "channel": "NBA",
@@ -562,22 +586,40 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
                 "channel": "UFC",
                 "watch_link": "https://pogo.pk/ufc-streams-free",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/england-vs-japan/3602",
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/denmark-vs-portugal/3633",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/denmark-vs-portugal/3634",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/denmark-vs-portugal/3635",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/denmark-vs-portugal/3636",
+                "m3u8_link": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/ci/a5a83de61de4a600/1794682645804/CufxY_9hm3u5VEElGocLdH4IoiLq2Mj2ckDvdro8ogRrjc6zdzDyP6KiINcyA2AkIlqx2GhAiyY97vG_KdxkPInOR1wesqrhMmIamII5fPmKTysNj_djE7n2eamg3RLXof_uyDpmT8x1o5UygDjsEjfny-MEyuxtgvQQC2hn9JMkXStb5KvcQ9pKwEOyInparL6JTzDxKX4mB7YOGJgNl2Mrim3KgwFS-Dy4tpSYIjRR6nw8sMnW-P_9gKzhSvSlG0_cLeN-mP06zAilg76JRr8PD33OXLdwyvRoFv7Py1bXOheq5fX77blGcnk3DlnP_7gMO3T1KdZORirk0PchBjHhw_XxSNu0NobJVkry91QvegSHT9hme8JW7a2EqU0guLBGwCUJBJ7PQLYkwIefogjBDV-AQ3ORleA2N7z7yWtbraQ_Q_a1U1sYPS9sSEV88KeJdzdnWCKLgwvZojkQnwW5mlGmTkY_ufYEZTqPeJWg9x219c3Alf3vRJuoutjanvU8PdmJrlS4dR7V_9ZvNsEdjr6j9BzRJfH8Ilwf3rs0AV6m_OiAa_zGts41ViGh2xOiuP1OECEWcWxLguF2Pr9e",
+                "referer": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/kryuj/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto"
             },
             {
                 "channel": "NFL",
@@ -602,14 +644,14 @@
         "match_time": "02:10 AM, 15 Nov 2026",
         "streams": [
             {
-                "channel": "NBA",
-                "watch_link": "https://pogo.pk/nba-streams",
+                "channel": "Soccer",
+                "watch_link": "https://pogo.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "Soccer",
-                "watch_link": "https://pogo.pk/soccer-streams",
+                "channel": "NBA",
+                "watch_link": "https://pogo.pk/nba-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -626,14 +668,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "Rugby",
-                "watch_link": "https://pogo.pk/rugby-streams",
+                "channel": "UFC",
+                "watch_link": "https://pogo.pk/ufc-streams-free",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "UFC",
-                "watch_link": "https://pogo.pk/ufc-streams-free",
+                "channel": "Rugby",
+                "watch_link": "https://pogo.pk/rugby-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -708,14 +750,14 @@
                 "referer": "N/A"
             },
             {
-                "channel": "NFL",
-                "watch_link": "https://pogo.pk/leagues/nfl-streams",
+                "channel": "EPL",
+                "watch_link": "https://pogo.pk/leagues/epl-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
             {
-                "channel": "EPL",
-                "watch_link": "https://pogo.pk/leagues/epl-streams",
+                "channel": "NFL",
+                "watch_link": "https://pogo.pk/leagues/nfl-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             }

@@ -1,309 +1,5 @@
 [
     {
-        "team_one_title": "FinlandSan Marino",
-        "team_two_title": "Finland",
-        "team_one_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
-        "match_link": "https://footystreams.pk/events/finland-vs-san-marino",
-        "match_time": "11:00 PM, 15 Nov 2026",
-        "streams": [
-            {
-                "channel": "Soccer",
-                "watch_link": "https://footystreams.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Am. Football",
-                "watch_link": "https://footystreams.pk/american-football",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://footystreams.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://footystreams.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://footystreams.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://footystreams.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://footystreams.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Others",
-                "watch_link": "https://footystreams.pk/crichd-free-sports",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://footystreams.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
-        "team_one_title": "ArmeniaLatvia",
-        "team_two_title": "Armenia",
-        "team_one_logo": "https://cdn.img4every1.org/team/armenia/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
-        "match_link": "https://footystreams.pk/events/armenia-vs-latvia",
-        "match_time": "08:00 PM, 15 Nov 2026",
-        "streams": [
-            {
-                "channel": "Am. Football",
-                "watch_link": "https://footystreams.pk/american-football",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Soccer",
-                "watch_link": "https://footystreams.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://footystreams.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://footystreams.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://footystreams.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://footystreams.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://footystreams.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Others",
-                "watch_link": "https://footystreams.pk/crichd-free-sports",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://footystreams.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
-        "team_one_title": "MontenegroCyprus",
-        "team_two_title": "Montenegro",
-        "team_one_logo": "https://cdn.img4every1.org/team/montenegro/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
-        "match_link": "https://footystreams.pk/events/montenegro-vs-cyprus",
-        "match_time": "08:00 PM, 15 Nov 2026",
-        "streams": [
-            {
-                "channel": "Am. Football",
-                "watch_link": "https://footystreams.pk/american-football",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Soccer",
-                "watch_link": "https://footystreams.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://footystreams.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://footystreams.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://footystreams.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://footystreams.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://footystreams.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Others",
-                "watch_link": "https://footystreams.pk/crichd-free-sports",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://footystreams.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
-        "team_one_title": "AlbaniaBelarus",
-        "team_two_title": "Albania",
-        "team_one_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
-        "match_link": "https://footystreams.pk/events/albania-vs-belarus",
-        "match_time": "11:00 PM, 15 Nov 2026",
-        "streams": [
-            {
-                "channel": "Soccer",
-                "watch_link": "https://footystreams.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Am. Football",
-                "watch_link": "https://footystreams.pk/american-football",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://footystreams.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://footystreams.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://footystreams.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://footystreams.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://footystreams.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Others",
-                "watch_link": "https://footystreams.pk/crichd-free-sports",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://footystreams.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
         "team_one_title": "EnglandSpain",
         "team_two_title": "England",
         "team_one_logo": "https://cdn.img4every1.org/team/england/logo.webp",
@@ -312,88 +8,6 @@
         "match_time": "01:45 AM, 16 Nov 2026",
         "streams": [
             {
-                "channel": "Am. Football",
-                "watch_link": "https://footystreams.pk/american-football",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Soccer",
-                "watch_link": "https://footystreams.pk/soccer-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NBA",
-                "watch_link": "https://footystreams.pk/nba-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "MotoGp",
-                "watch_link": "https://footystreams.pk/motogp-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "F1",
-                "watch_link": "https://footystreams.pk/f1-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "UFC",
-                "watch_link": "https://footystreams.pk/ufc-streams-free",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Rugby",
-                "watch_link": "https://footystreams.pk/rugby-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "Others",
-                "watch_link": "https://footystreams.pk/crichd-free-sports",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "NFL",
-                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
-                "channel": "EPL",
-                "watch_link": "https://footystreams.pk/leagues/epl-streams",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            }
-        ]
-    },
-    {
-        "team_one_title": "TurkiyeFrance",
-        "team_two_title": "Turkiye",
-        "team_one_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-        "team_two_logo": "https://cdn.img4every1.org/team/france/logo.webp",
-        "match_link": "https://footystreams.pk/events/turkiye-vs-france",
-        "match_time": "01:45 AM, 16 Nov 2026",
-        "streams": [
-            {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
-                "m3u8_link": "N/A",
-                "referer": "N/A"
-            },
-            {
                 "channel": "Soccer",
                 "watch_link": "https://footystreams.pk/soccer-streams",
                 "m3u8_link": "N/A",
@@ -402,6 +16,12 @@
             {
                 "channel": "Am. Football",
                 "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -464,8 +84,8 @@
         "match_time": "09:10 PM, 15 Nov 2026",
         "streams": [
             {
-                "channel": "FootyStreams.pk",
-                "watch_link": "https://footystreams.pk",
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -476,8 +96,524 @@
                 "referer": "N/A"
             },
             {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/australia-vs-scotland/3604",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Detroit LionsNew England Patriots",
+        "team_two_title": "Detroit Lions",
+        "team_one_logo": "https://cdn.img4every1.org/team/detroit-lions/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/new-england-patriots/logo.webp",
+        "match_link": "https://footystreams.pk/events/lions-vs-patriots",
+        "match_time": "08:30 PM, 15 Nov 2026",
+        "streams": [
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "Soccer",
                 "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/lions-vs-patriots/3650",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/lions-vs-patriots/3651",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "ArsenalLondon City Lionesses",
+        "team_two_title": "Arsenal",
+        "team_one_logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/london-city-lionesses/logo.webp",
+        "match_link": "https://footystreams.pk/events/arsenal-vs-london-city-lionesses",
+        "match_time": "10:30 PM, 15 Nov 2026",
+        "streams": [
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-london-city-lionesses/3652",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/arsenal-vs-london-city-lionesses/3653",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "FinlandSan Marino",
+        "team_two_title": "Finland",
+        "team_one_logo": "https://cdn.img4every1.org/team/finland/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/san-marino/logo.webp",
+        "match_link": "https://footystreams.pk/events/finland-vs-san-marino",
+        "match_time": "11:00 PM, 15 Nov 2026",
+        "streams": [
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/finland-vs-san-marino/3666",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/finland-vs-san-marino/3667",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/finland-vs-san-marino/3668",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "AlbaniaBelarus",
+        "team_two_title": "Albania",
+        "team_one_logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+        "match_link": "https://footystreams.pk/events/albania-vs-belarus",
+        "match_time": "11:00 PM, 15 Nov 2026",
+        "streams": [
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/albania-vs-belarus/3662",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/albania-vs-belarus/3663",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "TurkiyeFrance",
+        "team_two_title": "Turkiye",
+        "team_one_logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/france/logo.webp",
+        "match_link": "https://footystreams.pk/events/turkiye-vs-france",
+        "match_time": "01:45 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "CzechiaCroatia",
+        "team_two_title": "Czechia",
+        "team_one_logo": "https://cdn.img4every1.org/team/czechia/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/croatia/logo.webp",
+        "match_link": "https://footystreams.pk/events/czechia-vs-croatia",
+        "match_time": "01:45 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },
@@ -518,8 +654,330 @@
                 "referer": "N/A"
             },
             {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "ItalyBelgium",
+        "team_two_title": "Italy",
+        "team_one_logo": "https://cdn.img4every1.org/team/italy/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/belgium/logo.webp",
+        "match_link": "https://footystreams.pk/events/italy-vs-belgium-live-stream",
+        "match_time": "01:45 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Kansas City ChiefsAtlanta Falcons",
+        "team_two_title": "Kansas City Chiefs",
+        "team_one_logo": "https://cdn.img4every1.org/team/kansas-city-chiefs/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/atlanta-falcons/logo.webp",
+        "match_link": "https://footystreams.pk/events/chiefs-vs-falcons",
+        "match_time": "12:00 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
                 "channel": "Watch",
-                "watch_link": "https://playerdee.top/alpha/australia-vs-scotland/3604",
+                "watch_link": "https://playerdee.top/alpha/chiefs-vs-falcons/3654",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Carolina PanthersNew Orleans Saints",
+        "team_two_title": "Carolina Panthers",
+        "team_one_logo": "https://cdn.img4every1.org/team/carolina-panthers/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/new-orleans-saints/logo.webp",
+        "match_link": "https://footystreams.pk/events/carolina-panthers-vs-new-orleans-saints",
+        "match_time": "12:00 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/carolina-panthers-vs-new-orleans-saints/3655",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "EPL",
+                "watch_link": "https://footystreams.pk/leagues/epl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NFL",
+                "watch_link": "https://footystreams.pk/leagues/nfl-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            }
+        ]
+    },
+    {
+        "team_one_title": "Minnesota VikingsGreen Bay Packers",
+        "team_two_title": "Minnesota Vikings",
+        "team_one_logo": "https://cdn.img4every1.org/team/minnesota-vikings/logo.webp",
+        "team_two_logo": "https://cdn.img4every1.org/team/green-bay-packers/logo.webp",
+        "match_link": "https://footystreams.pk/events/minnesota-vikings-vs-green-bay-packers",
+        "match_time": "12:00 AM, 16 Nov 2026",
+        "streams": [
+            {
+                "channel": "Soccer",
+                "watch_link": "https://footystreams.pk/soccer-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "FootyStreams.pk",
+                "watch_link": "https://footystreams.pk",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Am. Football",
+                "watch_link": "https://footystreams.pk/american-football",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "NBA",
+                "watch_link": "https://footystreams.pk/nba-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "F1",
+                "watch_link": "https://footystreams.pk/f1-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "MotoGp",
+                "watch_link": "https://footystreams.pk/motogp-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "UFC",
+                "watch_link": "https://footystreams.pk/ufc-streams-free",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Rugby",
+                "watch_link": "https://footystreams.pk/rugby-streams",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Others",
+                "watch_link": "https://footystreams.pk/crichd-free-sports",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3656",
+                "m3u8_link": "N/A",
+                "referer": "N/A"
+            },
+            {
+                "channel": "Watch",
+                "watch_link": "https://playerdee.top/alpha/minnesota-vikings-vs-green-bay-packers/3657",
                 "m3u8_link": "N/A",
                 "referer": "N/A"
             },

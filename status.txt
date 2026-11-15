@@ -1,7 +1,12 @@
-🔴 FinlandSan Marino vs Finland | Time: 11:00 PM, 15 Nov 2026
-🔵 ArmeniaLatvia vs Armenia | Time: 08:00 PM, 15 Nov 2026
-🟡 MontenegroCyprus vs Montenegro | Time: 08:00 PM, 15 Nov 2026
-🔴 AlbaniaBelarus vs Albania | Time: 11:00 PM, 15 Nov 2026
-🔵 EnglandSpain vs England | Time: 01:45 AM, 16 Nov 2026
-🟡 TurkiyeFrance vs Turkiye | Time: 01:45 AM, 16 Nov 2026
-🔴 AustraliaScotland vs Australia | Time: 09:10 PM, 15 Nov 2026
+🔴 EnglandSpain vs England | Time: 01:45 AM, 16 Nov 2026
+🔵 AustraliaScotland vs Australia | Time: 09:10 PM, 15 Nov 2026
+🟡 Detroit LionsNew England Patriots vs Detroit Lions | Time: 08:30 PM, 15 Nov 2026
+🔴 ArsenalLondon City Lionesses vs Arsenal | Time: 10:30 PM, 15 Nov 2026
+🔵 FinlandSan Marino vs Finland | Time: 11:00 PM, 15 Nov 2026
+🟡 AlbaniaBelarus vs Albania | Time: 11:00 PM, 15 Nov 2026
+🔴 TurkiyeFrance vs Turkiye | Time: 01:45 AM, 16 Nov 2026
+🔵 CzechiaCroatia vs Czechia | Time: 01:45 AM, 16 Nov 2026
+🟡 ItalyBelgium vs Italy | Time: 01:45 AM, 16 Nov 2026
+🔴 Kansas City ChiefsAtlanta Falcons vs Kansas City Chiefs | Time: 12:00 AM, 16 Nov 2026
+🔵 Carolina PanthersNew Orleans Saints vs Carolina Panthers | Time: 12:00 AM, 16 Nov 2026
+🟡 Minnesota VikingsGreen Bay Packers vs Minnesota Vikings | Time: 12:00 AM, 16 Nov 2026

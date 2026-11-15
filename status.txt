@@ -1,12 +1,21 @@
-🔴 EnglandSpain vs England | Time: 01:45 AM, 16 Nov 2026
-🔵 AustraliaScotland vs Australia | Time: 09:10 PM, 15 Nov 2026
-🟡 Detroit LionsNew England Patriots vs Detroit Lions | Time: 08:30 PM, 15 Nov 2026
-🔴 ArsenalLondon City Lionesses vs Arsenal | Time: 10:30 PM, 15 Nov 2026
-🔵 FinlandSan Marino vs Finland | Time: 11:00 PM, 15 Nov 2026
-🟡 AlbaniaBelarus vs Albania | Time: 11:00 PM, 15 Nov 2026
-🔴 TurkiyeFrance vs Turkiye | Time: 01:45 AM, 16 Nov 2026
-🔵 CzechiaCroatia vs Czechia | Time: 01:45 AM, 16 Nov 2026
-🟡 ItalyBelgium vs Italy | Time: 01:45 AM, 16 Nov 2026
-🔴 Kansas City ChiefsAtlanta Falcons vs Kansas City Chiefs | Time: 12:00 AM, 16 Nov 2026
-🔵 Carolina PanthersNew Orleans Saints vs Carolina Panthers | Time: 12:00 AM, 16 Nov 2026
-🟡 Minnesota VikingsGreen Bay Packers vs Minnesota Vikings | Time: 12:00 AM, 16 Nov 2026
+🔴 CzechiaCroatia vs Czechia | Time: 01:45 AM, 16 Nov 2026
+🔵 TurkiyeFrance vs Turkiye | Time: 01:45 AM, 16 Nov 2026
+🟡 EnglandSpain vs England | Time: 01:45 AM, 16 Nov 2026
+🔴 Dallas CowboysSan Francisco 49ers vs Dallas Cowboys | Time: 03:25 AM, 16 Nov 2026
+🔵 ItalyBelgium vs Italy | Time: 01:45 AM, 16 Nov 2026
+🟡 GuyanaPuerto Rico vs Guyana | Time: 01:00 AM, 17 Nov 2026
+🔴 Trinidad and TobagoAntigua and Barbuda vs Trinidad and Tobago | Time: 06:00 AM, 17 Nov 2026
+🔵 Aruba vs Martinique | Time: 06:00 AM, 17 Nov 2026
+🟡 CanadaGuatemala vs Canada | Time: 07:00 AM, 17 Nov 2026
+🔴 BonaireSaint Kitts and Nevis vs Bonaire | Time: 01:00 AM, 18 Nov 2026
+🔵 MoldovaFaroe Islands vs Moldova | Time: 09:00 PM, 16 Nov 2026
+🟡 Pittsburgh SteelersCincinnati Bengals vs Pittsburgh Steelers | Time: 07:20 AM, 16 Nov 2026
+🔴 SlovakiaKazakhstan vs Slovakia | Time: 09:00 PM, 16 Nov 2026
+🔵 LiechtensteinLithuania vs Liechtenstein | Time: 11:00 PM, 16 Nov 2026
+🟡 LuxembourgIceland vs Luxembourg | Time: 11:00 PM, 16 Nov 2026
+🔴 BulgariaEstonia vs Bulgaria | Time: 11:00 PM, 16 Nov 2026
+🔵 GermanyNetherlands vs Germany | Time: 01:45 AM, 17 Nov 2026
+🟡 BrazilSingapore vs Brazil | Time: 04:00 PM, 17 Nov 2026
+🔴 JordanAustralia vs Jordan | Time: 10:00 PM, 17 Nov 2026
+🔵 IranIraq vs Iran | Time: 10:15 PM, 17 Nov 2026
+🟡 ArgentinaCosta Rica vs Argentina | Time: 05:00 AM, 18 Nov 2026
